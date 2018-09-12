@@ -1,0 +1,31 @@
+,Playlist,Track Name,Artist Name,Duration (ms),Popularity,Instrumentalness,Lyrics Path,compound,negative,neutral,positive
+0,Fresh Finds,Just a Little,Lauren Faith,223793,46,0.156,../../Data_Files/Song_Lyrics/fresh_finds/JustaLittle_LaurenFaith.txt,0.05585737704918033,0.005639344262295082,0.9196393442622951,0.07472131147540984
+1,Fresh Finds,You Can Have It All,B. Aull,207079,42,0.0,../../Data_Files/Song_Lyrics/fresh_finds/YouCanHaveItAll_BAull.txt,0.05585737704918033,0.005639344262295082,0.9196393442622951,0.07472131147540984
+2,Fresh Finds,Bull Fighter,Jean Dawson,257691,42,0.00171,../../Data_Files/Song_Lyrics/fresh_finds/BullFighter_JeanDawson.txt,0.05585737704918033,0.005639344262295082,0.9196393442622951,0.07472131147540984
+3,Fresh Finds,Fo'Sho,April + Vista,108946,43,0.0275,../../Data_Files/Song_Lyrics/fresh_finds/FoSho_AprilVista.txt,-0.00886,0.13119999999999998,0.7586285714285714,0.11022857142857141
+4,Fresh Finds,Buddha,Public Library Commute,200803,41,0.0546,../../Data_Files/Song_Lyrics/fresh_finds/Buddha_PublicLibraryCommute.txt,-0.00886,0.13119999999999998,0.7586285714285714,0.11022857142857141
+5,Fresh Finds,Yellow Squash,Jaymison,253821,40,0.138,../../Data_Files/Song_Lyrics/fresh_finds/YellowSquash_Jaymison.txt,-0.00886,0.13119999999999998,0.7586285714285714,0.11022857142857141
+6,Fresh Finds,Come Back,Caravãna Sun,233412,42,0.0368,../../Data_Files/Song_Lyrics/fresh_finds/ComeBack_CaravnaSun.txt,-0.00886,0.13119999999999998,0.7586285714285714,0.11022857142857141
+7,Fresh Finds,Escape,Ouri,186996,44,0.0608,../../Data_Files/Song_Lyrics/fresh_finds/Escape_Ouri.txt,-0.13374285714285716,0.17185714285714287,0.7872857142857141,0.040857142857142856
+8,Fresh Finds,Love 4 Me,Ionika,190080,40,5.54e-06,../../Data_Files/Song_Lyrics/fresh_finds/Love4Me_Ionika.txt,-0.13374285714285716,0.17185714285714287,0.7872857142857141,0.040857142857142856
+9,Fresh Finds,Telephono De Casa,Lil House Phone,137904,41,5.08e-05,../../Data_Files/Song_Lyrics/fresh_finds/TelephonoDeCasa_LilHousePhone.txt,-0.10932258064516129,0.20209677419354843,0.6145161290322579,0.18351612903225806
+10,Fresh Finds,Make Money Not Friends,Lazy J,237557,41,0.0,../../Data_Files/Song_Lyrics/fresh_finds/MakeMoneyNotFriends_LazyJ.txt,-0.10932258064516129,0.20209677419354843,0.6145161290322579,0.18351612903225806
+11,Fresh Finds,Nothing in My Head,Richie Quake,181760,38,0.0,../../Data_Files/Song_Lyrics/fresh_finds/NothinginMyHead_RichieQuake.txt,-0.10932258064516129,0.20209677419354843,0.6145161290322579,0.18351612903225806
+12,Fresh Finds,Summer Love,Midnight Quickie,210258,43,9.47e-05,../../Data_Files/Song_Lyrics/fresh_finds/SummerLove_MidnightQuickie.txt,-0.10932258064516129,0.20209677419354843,0.6145161290322579,0.18351612903225806
+13,Fresh Finds,Forever for Now,Dylan Bernard,211306,40,0.0,../../Data_Files/Song_Lyrics/fresh_finds/ForeverforNow_DylanBernard.txt,-0.10932258064516129,0.20209677419354843,0.6145161290322579,0.18351612903225806
+14,Fresh Finds,Cut Bait,Jim Bryson,213170,38,0.846,../../Data_Files/Song_Lyrics/fresh_finds/CutBait_JimBryson.txt,-0.10932258064516129,0.20209677419354843,0.6145161290322579,0.18351612903225806
+15,Fresh Finds,A Sound,Animals in the Attic,203042,37,0.000489,../../Data_Files/Song_Lyrics/fresh_finds/ASound_AnimalsintheAttic.txt,-0.10932258064516129,0.20209677419354843,0.6145161290322579,0.18351612903225806
+16,Fresh Finds,The Place,Far Caspian,257945,38,0.411,../../Data_Files/Song_Lyrics/fresh_finds/ThePlace_FarCaspian.txt,-0.10932258064516129,0.20209677419354843,0.6145161290322579,0.18351612903225806
+17,Fresh Finds,Wild,JYDN,173949,40,0.0,../../Data_Files/Song_Lyrics/fresh_finds/Wild_JYDN.txt,-0.10932258064516129,0.20209677419354843,0.6145161290322579,0.18351612903225806
+18,Fresh Finds,With Me,Loko Luca,144000,41,0.0,../../Data_Files/Song_Lyrics/fresh_finds/WithMe_LokoLuca.txt,-0.10932258064516129,0.20209677419354843,0.6145161290322579,0.18351612903225806
+19,Fresh Finds,Fate,Hermit and the Recluse,188680,44,0.0102,../../Data_Files/Song_Lyrics/fresh_finds/Fate_HermitandtheRecluse.txt,0.009491999999999993,0.09974,0.80262,0.09762
+20,Fresh Finds,f*cked up,KAINA,204001,37,0.232,../../Data_Files/Song_Lyrics/fresh_finds/fckedup_KAINA.txt,0.009491999999999993,0.09974,0.80262,0.09762
+21,Fresh Finds,BPD,SWANES,220462,38,0.000223,../../Data_Files/Song_Lyrics/fresh_finds/BPD_SWANES.txt,0.009491999999999993,0.09974,0.80262,0.09762
+22,Fresh Finds,POMEROY,jxsh,184615,37,0.944,../../Data_Files/Song_Lyrics/fresh_finds/POMEROY_jxsh.txt,0.009491999999999993,0.09974,0.80262,0.09762
+23,Fresh Finds,How I - h2the remix,Sirken,195630,39,0.000367,../../Data_Files/Song_Lyrics/fresh_finds/HowIh2theremix_Sirken.txt,0.009491999999999993,0.09974,0.80262,0.09762
+24,Fresh Finds,Frog Fractions,Khotin,280000,36,0.929,../../Data_Files/Song_Lyrics/fresh_finds/FrogFractions_Khotin.txt,0.009491999999999993,0.09974,0.80262,0.09762
+25,Fresh Finds,New Day,AEM Rhythm-Cascade,361861,35,0.884,../../Data_Files/Song_Lyrics/fresh_finds/NewDay_AEMRhythmCascade.txt,0.009491999999999993,0.09974,0.80262,0.09762
+26,Fresh Finds,Sheeta,HOMALS,221311,36,0.0008039999999999999,../../Data_Files/Song_Lyrics/fresh_finds/Sheeta_HOMALS.txt,0.009491999999999993,0.09974,0.80262,0.09762
+27,Fresh Finds,Good Luck,TYNI,173999,37,1.98e-05,../../Data_Files/Song_Lyrics/fresh_finds/GoodLuck_TYNI.txt,0.009491999999999993,0.09974,0.80262,0.09762
+28,Fresh Finds,Deep In My Soul,Zetbee,382606,35,0.866,../../Data_Files/Song_Lyrics/fresh_finds/DeepInMySoul_Zetbee.txt,0.009491999999999993,0.09974,0.80262,0.09762
+29,Fresh Finds,Ooze,Petticoat,177560,35,0.813,../../Data_Files/Song_Lyrics/fresh_finds/Ooze_Petticoat.txt,0.009491999999999993,0.09974,0.80262,0.09762

@@ -1,0 +1,53 @@
+,Playlist,Track Name,Artist Name,Duration (ms),Popularity,Instrumentalness,Lyrics Path,compound,negative,neutral,positive
+0,Hot Country,Rumor,Lee Brice,198440,74,0.0,../../Data_Files/Song_Lyrics/hot_country/Rumor_LeeBrice.txt,0.07529999999999999,0.024682926829268294,0.8704634146341463,0.10485365853658538
+1,Hot Country,For The First Time,Darius Rucker,197053,73,0.0,../../Data_Files/Song_Lyrics/hot_country/ForTheFirstTime_DariusRucker.txt,0.18811724137931035,0.012206896551724137,0.8320689655172412,0.15575862068965518
+2,Hot Country,One Shot,Hunter Hayes,150893,65,0.0,../../Data_Files/Song_Lyrics/hot_country/OneShot_HunterHayes.txt,0.018988235294117653,0.0708235294117647,0.8114117647058823,0.11776470588235295
+3,Hot Country,Beautiful Crazy,Luke Combs,193200,71,0.0,../../Data_Files/Song_Lyrics/hot_country/BeautifulCrazy_LukeCombs.txt,0.03768846153846154,0.1123076923076923,0.7311923076923077,0.15653846153846154
+4,Hot Country,Whiskey Glasses,Morgan Wallen,234293,11,1.19e-06,../../Data_Files/Song_Lyrics/hot_country/WhiskeyGlasses_MorganWallen.txt,0.007126562500000002,0.038781249999999996,0.90565625,0.055546875
+5,Hot Country,Burn Out,Midland,188613,71,1.98e-06,../../Data_Files/Song_Lyrics/hot_country/BurnOut_Midland.txt,-0.07542380952380953,0.09540476190476192,0.8730476190476192,0.03152380952380952
+6,Hot Country,Speechless,Dan + Shay,212745,76,0.0,../../Data_Files/Song_Lyrics/hot_country/Speechless_DanShay.txt,-0.011265999999999998,0.05374,0.8992,0.04706
+7,Hot Country,Good Girl,Dustin Lynch,189533,72,0.0,../../Data_Files/Song_Lyrics/hot_country/GoodGirl_DustinLynch.txt,0.35109999999999997,0.00909090909090909,0.7463636363636365,0.24454545454545457
+8,Hot Country,More,Clare Dunn,212120,65,0.0,../../Data_Files/Song_Lyrics/hot_country/More_ClareDunn.txt,0.35109999999999997,0.00909090909090909,0.7463636363636365,0.24454545454545457
+9,Hot Country,Simple,Florida Georgia Line,185200,75,0.0,../../Data_Files/Song_Lyrics/hot_country/Simple_FloridaGeorgiaLine.txt,0.16443518518518518,0.015296296296296296,0.8412222222222222,0.14350000000000002
+10,Hot Country,Hangin' On,Chris Young,185440,74,0.0,../../Data_Files/Song_Lyrics/hot_country/HanginOn_ChrisYoung.txt,0.07600697674418605,0.005558139534883721,0.921418604651163,0.07302325581395348
+11,Hot Country,Never Comin Down - Radio Single Mix,Keith Urban,211299,54,0.000412,../../Data_Files/Song_Lyrics/hot_country/NeverCominDownRadioSingleMix_KeithUrban.txt,0.07600697674418605,0.005558139534883721,0.921418604651163,0.07302325581395348
+12,Hot Country,Caught Up In The Country,Rodney Atkins,160991,75,0.0,../../Data_Files/Song_Lyrics/hot_country/CaughtUpInTheCountry_RodneyAtkins.txt,0.06693400000000001,0.00622,0.9341200000000001,0.05965999999999999
+13,Hot Country,Drowns The Whiskey (feat. Miranda Lambert),Jason Aldean,202066,75,0.000103,../../Data_Files/Song_Lyrics/hot_country/DrownsTheWhiskeyfeatMirandaLambert_JasonAldean.txt,-0.1088848484848485,0.1389090909090909,0.8132121212121214,0.04784848484848485
+14,Hot Country,Good Together,James Barker Band,199640,69,0.00179,../../Data_Files/Song_Lyrics/hot_country/GoodTogether_JamesBarkerBand.txt,0.35854642857142865,0.020107142857142855,0.6607142857142856,0.3191785714285715
+15,Hot Country,She Got the Best of Me,Luke Combs,183160,76,0.0,../../Data_Files/Song_Lyrics/hot_country/SheGottheBestofMe_LukeCombs.txt,0.08938787878787878,0.06448484848484849,0.8216969696969697,0.11381818181818182
+16,Hot Country,Heaven,Kane Brown,179506,80,0.0,../../Data_Files/Song_Lyrics/hot_country/Heaven_KaneBrown.txt,0.16532580645161293,0.10919354838709679,0.6569999999999999,0.2337741935483871
+17,Hot Country,I Hate Love Songs,Kelsea Ballerini,191186,71,0.0,../../Data_Files/Song_Lyrics/hot_country/IHateLoveSongs_KelseaBallerini.txt,0.010702941176470597,0.19500000000000003,0.5163529411764706,0.28867647058823526
+18,Hot Country,Best Shot,Jimmie Allen,195053,71,0.0,../../Data_Files/Song_Lyrics/hot_country/BestShot_JimmieAllen.txt,0.17367560975609755,0.0811219512195122,0.727,0.19187804878048778
+19,Hot Country,Downtown's Dead,Sam Hunt,213986,75,0.0,../../Data_Files/Song_Lyrics/hot_country/DowntownsDead_SamHunt.txt,-0.08759268292682927,0.17939024390243904,0.7380731707317073,0.08253658536585366
+20,Hot Country,Never Comin Down,Keith Urban,214095,62,0.000118,../../Data_Files/Song_Lyrics/hot_country/NeverCominDown_KeithUrban.txt,0.078756,0.010946666666666665,0.8968933333333333,0.09216
+21,Hot Country,Leave Right Now,Thomas Rhett,195666,71,0.0,../../Data_Files/Song_Lyrics/hot_country/LeaveRightNow_ThomasRhett.txt,0.08140416666666667,0.06566666666666666,0.8357708333333332,0.0985625
+22,Hot Country,Born to Love You,LANCO,230013,74,9.45e-05,../../Data_Files/Song_Lyrics/hot_country/BorntoLoveYou_LANCO.txt,0.08140416666666667,0.06566666666666666,0.8357708333333332,0.0985625
+23,Hot Country,Take Back Home Girl (Feat. Tori Kelly),Chris Lane,211426,20,0.0,../../Data_Files/Song_Lyrics/hot_country/TakeBackHomeGirlFeatToriKelly_ChrisLane.txt,0.085244,0.014339999999999999,0.89268,0.09298000000000001
+24,Hot Country,Drunk Me,Mitchell Tenpenny,213023,75,0.0,../../Data_Files/Song_Lyrics/hot_country/DrunkMe_MitchellTenpenny.txt,-0.040597142857142846,0.16711428571428572,0.7142,0.11865714285714285
+25,Hot Country,Eyes On You,Chase Rice,182493,21,0.0,../../Data_Files/Song_Lyrics/hot_country/EyesOnYou_ChaseRice.txt,-0.0592,0.13537254901960785,0.7885686274509803,0.07605882352941176
+26,Hot Country,Turnin' Me On,Blake Shelton,288573,62,1.32e-06,../../Data_Files/Song_Lyrics/hot_country/TurninMeOn_BlakeShelton.txt,0.08495777777777778,0.011044444444444444,0.9057333333333333,0.08322222222222223
+27,Hot Country,Break Up in the End,Cole Swindell,199436,74,0.0,../../Data_Files/Song_Lyrics/hot_country/BreakUpintheEnd_ColeSwindell.txt,0.022196666666666663,0.05366666666666667,0.8772999999999999,0.06896666666666666
+28,Hot Country,Life Changes,Thomas Rhett,190226,76,0.0,../../Data_Files/Song_Lyrics/hot_country/LifeChanges_ThomasRhett.txt,0.05841162790697675,0.07313953488372094,0.8204418604651162,0.10644186046511628
+29,Hot Country,Take It From Me,Jordan Davis,174254,53,0.0,../../Data_Files/Song_Lyrics/hot_country/TakeItFromMe_JordanDavis.txt,0.10959607843137256,0.027137254901960783,0.8708823529411764,0.10198039215686276
+30,Hot Country,Night Shift,Jon Pardi,172253,71,0.0,../../Data_Files/Song_Lyrics/hot_country/NightShift_JonPardi.txt,0.14888437499999999,0.074125,0.7386875,0.18721875000000002
+31,Hot Country,Burning Man,Dierks Bentley,238493,73,5.42e-06,../../Data_Files/Song_Lyrics/hot_country/BurningMan_DierksBentley.txt,0.029100000000000008,0.033697674418604655,0.9153255813953489,0.0509767441860465
+32,Hot Country,Better off Gone,Logan Mize,182084,71,0.0,../../Data_Files/Song_Lyrics/hot_country/BetteroffGone_LoganMize.txt,0.11218648648648649,0.0,0.9103783783783785,0.08962162162162161
+33,Hot Country,Hotel Key,Old Dominion,166573,74,0.0,../../Data_Files/Song_Lyrics/hot_country/HotelKey_OldDominion.txt,0.008404081632653061,0.026734693877551022,0.9002244897959184,0.07302040816326531
+34,Hot Country,Get Along,Kenny Chesney,199626,75,0.0,../../Data_Files/Song_Lyrics/hot_country/GetAlong_KennyChesney.txt,0.034370731707317075,0.09685365853658537,0.8026341463414635,0.10048780487804879
+35,Hot Country,Asking For A Friend,Devin Dawson,239280,67,7.49e-06,../../Data_Files/Song_Lyrics/hot_country/AskingForAFriend_DevinDawson.txt,0.17925806451612905,0.0807741935483871,0.7053548387096772,0.21390322580645157
+36,Hot Country,Slower,Filmore,172533,70,3.05e-06,../../Data_Files/Song_Lyrics/hot_country/Slower_Filmore.txt,0.0642642857142857,0.014309523809523808,0.8950238095238096,0.09066666666666666
+37,Hot Country,Mercy,Brett Young,217120,77,0.0,../../Data_Files/Song_Lyrics/hot_country/Mercy_BrettYoung.txt,0.09742750000000003,0.045875,0.731975,0.222125
+38,Hot Country,One Summer,Austin Burke,230213,67,0.0,../../Data_Files/Song_Lyrics/hot_country/OneSummer_AustinBurke.txt,0.11101052631578948,0.06982456140350878,0.784438596491228,0.1457719298245614
+39,Hot Country,Dear God,Hunter Hayes,175173,71,0.0,../../Data_Files/Song_Lyrics/hot_country/DearGod_HunterHayes.txt,0.17021923076923073,0.06232692307692307,0.7442884615384616,0.1933461538461538
+40,Hot Country,Love Wins,Carrie Underwood,228640,61,0.0,../../Data_Files/Song_Lyrics/hot_country/LoveWins_CarrieUnderwood.txt,0.1805514285714286,0.13,0.6087142857142857,0.26125714285714285
+41,Hot Country,Talk You Out Of It,Florida Georgia Line,202920,70,0.0,../../Data_Files/Song_Lyrics/hot_country/TalkYouOutOfIt_FloridaGeorgiaLine.txt,0.20820232558139534,0.01876744186046512,0.8051860465116278,0.17606976744186048
+42,Hot Country,I Don't Know About You,Chris Lane,207933,47,0.0,../../Data_Files/Song_Lyrics/hot_country/IDontKnowAboutYou_ChrisLane.txt,0.056709433962264154,0.016490566037735847,0.9144905660377359,0.0690188679245283
+43,Hot Country,Love That About You,Filmore,157421,70,0.0,../../Data_Files/Song_Lyrics/hot_country/LoveThatAboutYou_Filmore.txt,0.28956666666666664,0.020155555555555555,0.7275555555555554,0.2522888888888889
+44,Hot Country,"Sunrise, Sunburn, Sunset",Luke Bryan,216093,74,0.0,../../Data_Files/Song_Lyrics/hot_country/SunriseSunburnSunset_LukeBryan.txt,0.06941063829787233,0.01976595744680851,0.8734255319148937,0.10680851063829787
+45,Hot Country,Lose It,Kane Brown,178732,74,1.77e-06,../../Data_Files/Song_Lyrics/hot_country/LoseIt_KaneBrown.txt,-0.06601555555555555,0.1702888888888889,0.751022222222222,0.07866666666666669
+46,Hot Country,Blue Tacoma,Russell Dickerson,212066,72,0.0,../../Data_Files/Song_Lyrics/hot_country/BlueTacoma_RussellDickerson.txt,0.15482678571428574,0.011678571428571427,0.832625,0.15569642857142857
+47,Hot Country,Desperate Man,Eric Church,208733,71,0.0045,../../Data_Files/Song_Lyrics/hot_country/DesperateMan_EricChurch.txt,-0.041560377358490566,0.07981132075471699,0.9039245283018866,0.016245283018867924
+48,Hot Country,You Make It Easy,Jason Aldean,196800,76,0.0,../../Data_Files/Song_Lyrics/hot_country/YouMakeItEasy_JasonAldean.txt,0.28128484848484847,0.05975757575757576,0.6567575757575757,0.2835757575757576
+49,Hot Country,Keeping Score (feat. Kelly Clarkson),Dan + Shay,220213,71,0.0,../../Data_Files/Song_Lyrics/hot_country/KeepingScorefeatKellyClarkson_DanShay.txt,0.17844761904761905,0.022,0.8205476190476189,0.15745238095238095
+50,Hot Country,Coming Home,Keith Urban,214728,28,4.66e-06,../../Data_Files/Song_Lyrics/hot_country/ComingHome_KeithUrban.txt,0.16183703703703708,0.017296296296296296,0.8633703703703703,0.11933333333333335
+51,Hot Country,Goodbye Summer,Danielle Bradbery,188556,65,0.0,../../Data_Files/Song_Lyrics/hot_country/GoodbyeSummer_DanielleBradbery.txt,-0.025493939393939385,0.09045454545454547,0.7917272727272727,0.11778787878787877

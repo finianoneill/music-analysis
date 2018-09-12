@@ -1,0 +1,66 @@
+,Playlist,Track Name,Artist Name,Duration (ms),Popularity,Instrumentalness,Lyrics Path,compound,negative,neutral,positive
+0,mint,Don't Leave Me Alone (feat. Anne-Marie) - Oliver Heldens Remix,David Guetta,204223,61,5.56e-05,../../Data_Files/Song_Lyrics/mint/DontLeaveMeAlonefeatAnneMarieOliverHeldensRemix_DavidGuetta.txt,-0.03380097087378642,0.10831067961165047,0.7956601941747573,0.0960388349514563
+1,mint,One Kiss - Oliver Heldens Remix,Calvin Harris,281266,51,0.000468,../../Data_Files/Song_Lyrics/mint/OneKissOliverHeldensRemix_CalvinHarris.txt,-0.03380097087378642,0.10831067961165047,0.7956601941747573,0.0960388349514563
+2,mint,Body,Loud Luxury,163216,87,9.44e-05,../../Data_Files/Song_Lyrics/mint/Body_LoudLuxury.txt,0.17128461538461537,0.08467307692307693,0.6821538461538463,0.23307692307692301
+3,mint,High On Life (feat. Bonn),Martin Garrix,230761,85,0.0,../../Data_Files/Song_Lyrics/mint/HighOnLifefeatBonn_MartinGarrix.txt,-0.1887357142857143,0.21792857142857144,0.7167857142857142,0.06528571428571428
+4,mint,Losing It,FISHER,248035,69,0.7,../../Data_Files/Song_Lyrics/mint/LosingIt_FISHER.txt,-0.1887357142857143,0.21792857142857144,0.7167857142857142,0.06528571428571428
+5,mint,Monophobia,deadmau5,214670,69,0.00397,../../Data_Files/Song_Lyrics/mint/Monophobia_deadmau5.txt,-0.1887357142857143,0.21792857142857144,0.7167857142857142,0.06528571428571428
+6,mint,REMEDY,Alesso,190295,73,0.0,../../Data_Files/Song_Lyrics/mint/REMEDY_Alesso.txt,0.007563265306122447,0.049510204081632654,0.8894897959183674,0.061
+7,mint,Born To Be Yours,Kygo,193320,78,0.0,../../Data_Files/Song_Lyrics/mint/BornToBeYours_Kygo.txt,0.007563265306122447,0.049510204081632654,0.8894897959183674,0.061
+8,mint,Jackie Chan,Tiësto,215759,94,0.0,../../Data_Files/Song_Lyrics/mint/JackieChan_Tisto.txt,0.007563265306122447,0.049510204081632654,0.8894897959183674,0.061
+9,mint,Electricity (with Dua Lipa),Silk City,238173,0,3.33e-06,../../Data_Files/Song_Lyrics/mint/ElectricitywithDuaLipa_SilkCity.txt,0.007563265306122447,0.049510204081632654,0.8894897959183674,0.061
+10,mint,In My Mind,Dynoro,184560,94,1.1e-05,../../Data_Files/Song_Lyrics/mint/InMyMind_Dynoro.txt,0.007563265306122447,0.049510204081632654,0.8894897959183674,0.061
+11,mint,Drive (feat. Delilah Montagu) - Edit,Black Coffee,191258,70,0.0443,../../Data_Files/Song_Lyrics/mint/DrivefeatDelilahMontaguEdit_BlackCoffee.txt,0.007563265306122447,0.049510204081632654,0.8894897959183674,0.061
+12,mint,Blah Blah Blah,Armin van Buuren,183518,48,0.00378,../../Data_Files/Song_Lyrics/mint/BlahBlahBlah_ArminvanBuuren.txt,-0.2262189189189189,0.4218918918918919,0.5781081081081081,0.0
+13,mint,Happier,Marshmello,214289,89,0.0,../../Data_Files/Song_Lyrics/mint/Happier_Marshmello.txt,0.10137169811320756,0.035622641509433964,0.8305471698113207,0.1338301886792453
+14,mint,Nobody Like You - Sun Soaked Mix,Kaskade,240796,63,0.5920000000000001,../../Data_Files/Song_Lyrics/mint/NobodyLikeYouSunSoakedMix_Kaskade.txt,0.024882352941176474,0.0708235294117647,0.8230588235294118,0.10611764705882352
+15,mint,Mama Look At Me Now,Galantis,178131,70,2.2e-05,../../Data_Files/Song_Lyrics/mint/MamaLookAtMeNow_Galantis.txt,-0.004408823529411759,0.06526470588235295,0.8719411764705882,0.06279411764705882
+16,mint,Side Effects - Fedde Le Grand Remix,The Chainsmokers,172360,59,2.8300000000000007e-05,../../Data_Files/Song_Lyrics/mint/SideEffectsFeddeLeGrandRemix_TheChainsmokers.txt,0.2410576923076923,0.04361538461538461,0.7285384615384616,0.22800000000000004
+17,mint,Dancing Alone,Axwell /\ Ingrosso,253770,65,0.0,../../Data_Files/Song_Lyrics/mint/DancingAlone_AxwellIngrosso.txt,0.2410576923076923,0.04361538461538461,0.7285384615384616,0.22800000000000004
+18,mint,Finest Hour (feat. Abir),Cash Cash,215781,80,0.0,../../Data_Files/Song_Lyrics/mint/FinestHourfeatAbir_CashCash.txt,-0.1176,0.12754385964912282,0.8495614035087719,0.022894736842105266
+19,mint,Promises (with Sam Smith),Calvin Harris,213309,90,4.91e-06,../../Data_Files/Song_Lyrics/mint/PromiseswithSamSmith_CalvinHarris.txt,-0.1176,0.12754385964912282,0.8495614035087719,0.022894736842105266
+20,mint,Without You (feat. Sandro Cavazza),Avicii,181672,83,0.0,../../Data_Files/Song_Lyrics/mint/WithoutYoufeatSandroCavazza_Avicii.txt,-0.000878571428571427,0.08910714285714286,0.8270000000000001,0.08389285714285714
+21,mint,Ignite (feat. SEUNGRI),K-391,210288,77,6.39e-06,../../Data_Files/Song_Lyrics/mint/IgnitefeatSEUNGRI_K391.txt,0.11394791666666666,0.052041666666666674,0.8274583333333333,0.1205
+22,mint,I Could Be Wrong,Lucas & Steve,177273,57,0.0,../../Data_Files/Song_Lyrics/mint/ICouldBeWrong_LucasSteve.txt,0.14852,0.03032,0.8352400000000002,0.13444
+23,mint,Be Right Here,Kungs,191000,70,2.2e-05,../../Data_Files/Song_Lyrics/mint/BeRightHere_Kungs.txt,0.14852,0.03032,0.8352400000000002,0.13444
+24,mint,Your Love,David Guetta,185620,80,0.496,../../Data_Files/Song_Lyrics/mint/YourLove_DavidGuetta.txt,0.18880681818181816,0.061295454545454556,0.7504090909090909,0.18829545454545454
+25,mint,Footprint,Steve Brian,200624,62,0.0252,../../Data_Files/Song_Lyrics/mint/Footprint_SteveBrian.txt,0.18880681818181816,0.061295454545454556,0.7504090909090909,0.18829545454545454
+26,mint,Darkside,Alan Walker,211866,86,0.0,../../Data_Files/Song_Lyrics/mint/Darkside_AlanWalker.txt,-0.010497916666666664,0.062416666666666655,0.8952291666666667,0.042374999999999996
+27,mint,WOW,Tiësto,148125,69,0.52,../../Data_Files/Song_Lyrics/mint/WOW_Tisto.txt,-0.2878,0.285,0.534,0.181
+28,mint,Who You Are (feat. MIO),Syn Cole,195000,57,0.0,../../Data_Files/Song_Lyrics/mint/WhoYouArefeatMIO_SynCole.txt,-0.0036521739130434814,0.10823913043478259,0.8005652173913044,0.09119565217391305
+29,mint,Sun In Our Eyes - Don Diablo Remix,MØ,206452,60,2.64e-06,../../Data_Files/Song_Lyrics/mint/SunInOurEyesDonDiabloRemix_M.txt,-0.0036521739130434814,0.10823913043478259,0.8005652173913044,0.09119565217391305
+30,mint,Rise - TV Noise Ibiza Mix,Jonas Blue,219920,64,1.15e-05,../../Data_Files/Song_Lyrics/mint/RiseTVNoiseIbizaMix_JonasBlue.txt,-0.0036521739130434814,0.10823913043478259,0.8005652173913044,0.09119565217391305
+31,mint,Magenta Riddim,DJ Snake,194490,73,0.838,../../Data_Files/Song_Lyrics/mint/MagentaRiddim_DJSnake.txt,0.0,0.0,1.0,0.0
+32,mint,Changa - Blanke Remix,Pnau,188470,63,0.119,../../Data_Files/Song_Lyrics/mint/ChangaBlankeRemix_Pnau.txt,0.0,0.0,1.0,0.0
+33,mint,Only You (with Little Mix),Cheat Codes,189401,83,0.0,../../Data_Files/Song_Lyrics/mint/OnlyYouwithLittleMix_CheatCodes.txt,0.0,0.0,1.0,0.0
+34,mint,Like I Do,David Guetta,202500,82,0.0145,../../Data_Files/Song_Lyrics/mint/LikeIDo_DavidGuetta.txt,0.0,0.0,1.0,0.0
+35,mint,Audio - CID Remix,Sia,161973,69,0.000131,../../Data_Files/Song_Lyrics/mint/AudioCIDRemix_Sia.txt,0.0,0.0,1.0,0.0
+36,mint,Favela,Ina Wroldsen,185104,69,0.00233,../../Data_Files/Song_Lyrics/mint/Favela_InaWroldsen.txt,0.0,0.0,1.0,0.0
+37,mint,Ocean,Seven Lions,225675,63,1.89e-05,../../Data_Files/Song_Lyrics/mint/Ocean_SevenLions.txt,-0.02597878787878788,0.11830303030303033,0.8041212121212121,0.07763636363636363
+38,mint,Remind Me to Forget,Kygo,217293,77,0.0,../../Data_Files/Song_Lyrics/mint/RemindMetoForget_Kygo.txt,-0.02597878787878788,0.11830303030303033,0.8041212121212121,0.07763636363636363
+39,mint,Lonely Together (feat. Rita Ora),Avicii,181812,61,2.12e-05,../../Data_Files/Song_Lyrics/mint/LonelyTogetherfeatRitaOra_Avicii.txt,-0.17050185185185185,0.19533333333333336,0.7975370370370372,0.00712962962962963
+40,mint,Tim,ARTY,226875,65,0.848,../../Data_Files/Song_Lyrics/mint/Tim_ARTY.txt,-0.17050185185185185,0.19533333333333336,0.7975370370370372,0.00712962962962963
+41,mint,Ocean (feat. Khalid) - David Guetta Remix,Martin Garrix,195832,68,2.88e-05,../../Data_Files/Song_Lyrics/mint/OceanfeatKhalidDavidGuettaRemix_MartinGarrix.txt,0.07583030303030304,0.03307575757575758,0.8913333333333334,0.0755909090909091
+42,mint,Spaceship (feat. Uffie),Galantis,167079,71,0.0,../../Data_Files/Song_Lyrics/mint/SpaceshipfeatUffie_Galantis.txt,0.16746410256410255,0.022871794871794873,0.8761282051282052,0.101
+43,mint,I See Light In You (feat. Faye Medeson),MOTi,166867,55,0.00309,../../Data_Files/Song_Lyrics/mint/ISeeLightInYoufeatFayeMedeson_MOTi.txt,0.09928695652173912,0.07269565217391304,0.7442608695652175,0.18304347826086956
+44,mint,Panic Room,Au/Ra,214482,75,0.0706,../../Data_Files/Song_Lyrics/mint/PanicRoom_AuRa.txt,0.017838028169014083,0.17476056338028167,0.5845633802816902,0.24077464788732403
+45,mint,Late Night,ODESZA,228154,64,0.00898,../../Data_Files/Song_Lyrics/mint/LateNight_ODESZA.txt,,,,
+46,mint,Lullaby,Sigala,204022,80,1.27e-05,../../Data_Files/Song_Lyrics/mint/Lullaby_Sigala.txt,,,,
+47,mint,Fun,Kaskade,174705,64,0.00936,../../Data_Files/Song_Lyrics/mint/Fun_Kaskade.txt,0.44619285714285717,0.0,0.5618928571428572,0.43810714285714286
+48,mint,17,MK,196489,75,0.127,../../Data_Files/Song_Lyrics/mint/17_MK.txt,0.13586250000000002,0.103125,0.6719999999999999,0.224875
+49,mint,Northern Soul,Above & Beyond,335853,63,0.00018,../../Data_Files/Song_Lyrics/mint/NorthernSoul_AboveBeyond.txt,0.051126315789473686,0.030842105263157886,0.9103947368421053,0.058763157894736844
+50,mint,Heaven To Me,Don Diablo,175402,71,4.68e-06,../../Data_Files/Song_Lyrics/mint/HeavenToMe_DonDiablo.txt,0.2911527777777778,0.10441666666666667,0.5554166666666666,0.3401666666666666
+51,mint,Pick Up - Even Shorter Version,DJ Koze,228480,54,0.6990000000000001,../../Data_Files/Song_Lyrics/mint/PickUpEvenShorterVersion_DJKoze.txt,0.2911527777777778,0.10441666666666667,0.5554166666666666,0.3401666666666666
+52,mint,Anywhere,Sigma,205250,75,1.99e-06,../../Data_Files/Song_Lyrics/mint/Anywhere_Sigma.txt,0.024463636363636364,0.011051948051948052,0.9565844155844158,0.032363636363636365
+53,mint,Happy Now,Zedd,207029,91,1.49e-06,../../Data_Files/Song_Lyrics/mint/HappyNow_Zedd.txt,0.024463636363636364,0.011051948051948052,0.9565844155844158,0.032363636363636365
+54,mint,More Than You Know,Axwell /\ Ingrosso,203000,82,0.0,../../Data_Files/Song_Lyrics/mint/MoreThanYouKnow_AxwellIngrosso.txt,0.024463636363636364,0.011051948051948052,0.9565844155844158,0.032363636363636365
+55,mint,Sunrise,ARTY,198223,65,3.96e-06,../../Data_Files/Song_Lyrics/mint/Sunrise_ARTY.txt,0.024463636363636364,0.011051948051948052,0.9565844155844158,0.032363636363636365
+56,mint,Nothing Scares Me Anymore,Steve Angello,237826,60,2.36e-06,../../Data_Files/Song_Lyrics/mint/NothingScaresMeAnymore_SteveAngello.txt,0.14338285714285717,0.104,0.6286571428571429,0.2673428571428571
+57,mint,Alone (Calvin Harris Remix) (Feat. Stefflon Don),Halsey,199199,72,0.00792,../../Data_Files/Song_Lyrics/mint/AloneCalvinHarrisRemixFeatStefflonDon_Halsey.txt,-0.07979130434782608,0.06330434782608696,0.936695652173913,0.0
+58,mint,Flames - David Guetta Remix,David Guetta,368150,64,0.149,../../Data_Files/Song_Lyrics/mint/FlamesDavidGuettaRemix_DavidGuetta.txt,-0.07979130434782608,0.06330434782608696,0.936695652173913,0.0
+59,mint,I Wanna Know,RL Grime,206727,60,6.59e-06,../../Data_Files/Song_Lyrics/mint/IWannaKnow_RLGrime.txt,0.049848888888888894,0.04777777777777777,0.8456,0.10662222222222223
+60,mint,Ultimatum - Edit,Disclosure,213381,68,0.863,../../Data_Files/Song_Lyrics/mint/UltimatumEdit_Disclosure.txt,0.049848888888888894,0.04777777777777777,0.8456,0.10662222222222223
+61,mint,Turn off the Lights (feat. Alexis Roberts),Chris Lake,210546,63,3.2899999999999987e-05,../../Data_Files/Song_Lyrics/mint/TurnofftheLightsfeatAlexisRoberts_ChrisLake.txt,-0.09351666666666666,0.1072222222222222,0.8927777777777778,0.0
+62,mint,Wake Me Up - Radio Edit,Avicii,247426,84,0.00187,../../Data_Files/Song_Lyrics/mint/WakeMeUpRadioEdit_Avicii.txt,0.14261428571428572,0.027392857142857142,0.7903214285714286,0.18228571428571425
+63,mint,Real Life,Duke Dumont,205773,53,0.0016699999999999998,../../Data_Files/Song_Lyrics/mint/RealLife_DukeDumont.txt,0.14261428571428572,0.027392857142857142,0.7903214285714286,0.18228571428571425
+64,mint,You Be Love (feat. Billy Raffoul),Avicii,207545,65,0.0063100000000000005,../../Data_Files/Song_Lyrics/mint/YouBeLovefeatBillyRaffoul_Avicii.txt,0.16288591549295775,0.012633802816901409,0.7974225352112676,0.189943661971831

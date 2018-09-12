@@ -1,0 +1,48 @@
+,Playlist,Track Name,Artist Name,Duration (ms),Popularity,Instrumentalness,Lyrics Path,compound,negative,neutral,positive
+0,Are & Be,Gonna Love Me,Teyana Taylor,166997,73,2.56e-05,../../Data_Files/Song_Lyrics/are_and_be/GonnaLoveMe_TeyanaTaylor.txt,0.2028,0.035476190476190474,0.7975000000000001,0.16702380952380955
+1,Are & Be,Feels Like Summer,Childish Gambino,297404,78,0.0048200000000000005,../../Data_Files/Song_Lyrics/are_and_be/FeelsLikeSummer_ChildishGambino.txt,0.09970400000000001,0.04776,0.7705,0.18173999999999998
+2,Are & Be,Call Out My Name,The Weeknd,228373,84,0.0,../../Data_Files/Song_Lyrics/are_and_be/CallOutMyName_TheWeeknd.txt,0.11742,0.04455,0.821625,0.13382500000000003
+3,Are & Be,Trip,Ella Mai,217118,78,0.0,../../Data_Files/Song_Lyrics/are_and_be/Trip_EllaMai.txt,0.09916000000000003,0.0915090909090909,0.7348181818181818,0.17367272727272726
+4,Are & Be,Love Lies (with Normani),Khalid,201707,87,0.0,../../Data_Files/Song_Lyrics/are_and_be/LoveLieswithNormani_Khalid.txt,0.09916000000000003,0.0915090909090909,0.7348181818181818,0.17367272727272726
+5,Are & Be,In My Feelings,Drake,217933,83,0.0144,../../Data_Files/Song_Lyrics/are_and_be/InMyFeelings_Drake.txt,-0.022602702702702704,0.11904054054054053,0.7779999999999999,0.10297297297297298
+6,Are & Be,Know Myself,Justine Skye,167493,70,0.000931,../../Data_Files/Song_Lyrics/are_and_be/KnowMyself_JustineSkye.txt,0.09703571428571428,0.06326190476190477,0.7963095238095238,0.1404285714285714
+7,Are & Be,The Light,MihTy,179653,73,8.149999999999999e-05,../../Data_Files/Song_Lyrics/are_and_be/TheLight_MihTy.txt,0.09703571428571428,0.06326190476190477,0.7963095238095238,0.1404285714285714
+8,Are & Be,Could've Been (feat. Bryson Tiller),H.E.R.,248466,75,7.000000000000002e-06,../../Data_Files/Song_Lyrics/are_and_be/CouldveBeenfeatBrysonTiller_HER.txt,-0.000356923076923076,0.07321538461538463,0.8593692307692308,0.06741538461538461
+9,Are & Be,CPR,Summer Walker,203142,66,8.47e-05,../../Data_Files/Song_Lyrics/are_and_be/CPR_SummerWalker.txt,-0.013513793103448272,0.16282758620689658,0.6883103448275861,0.14886206896551724
+10,Are & Be,Wanna Be,The Internet,267400,66,0.0374,../../Data_Files/Song_Lyrics/are_and_be/WannaBe_TheInternet.txt,0.03673684210526316,0.061657894736842106,0.8471842105263158,0.09115789473684209
+11,Are & Be,Easy,Next Town Down,182800,65,0.0,../../Data_Files/Song_Lyrics/are_and_be/Easy_NextTownDown.txt,0.10568235294117648,0.07738235294117647,0.731235294117647,0.19138235294117645
+12,Are & Be,Boo'd Up,Ella Mai,256063,84,0.0,../../Data_Files/Song_Lyrics/are_and_be/BoodUp_EllaMai.txt,0.13056875,0.0224375,0.8323437499999999,0.14521875
+13,Are & Be,After Dark,Drake,289560,69,0.0,../../Data_Files/Song_Lyrics/are_and_be/AfterDark_Drake.txt,-0.00030925925925925397,0.06612962962962962,0.8561481481481481,0.07772222222222223
+14,Are & Be,Come Through and Chill,Miguel,322000,61,0.0,../../Data_Files/Song_Lyrics/are_and_be/ComeThroughandChill_Miguel.txt,0.020162626262626267,0.04817171717171717,0.8778686868686868,0.07396969696969698
+15,Are & Be,OTW,Khalid,263013,86,3.26e-05,../../Data_Files/Song_Lyrics/are_and_be/OTW_Khalid.txt,0.03273472222222222,0.040986111111111105,0.8911944444444444,0.06781944444444445
+16,Are & Be,SUMMER,The Carters,285200,61,1.75e-05,../../Data_Files/Song_Lyrics/are_and_be/SUMMER_TheCarters.txt,0.03273472222222222,0.040986111111111105,0.8911944444444444,0.06781944444444445
+17,Are & Be,Lady Lady,Masego,158000,65,6.47e-06,../../Data_Files/Song_Lyrics/are_and_be/LadyLady_Masego.txt,0.06871111111111111,0.07227777777777779,0.7713333333333333,0.1563888888888889
+18,Are & Be,All I Know,DaniLeigh,163746,65,0.0,../../Data_Files/Song_Lyrics/are_and_be/AllIKnow_DaniLeigh.txt,0.09945999999999997,0.0,0.8806363636363637,0.11936363636363635
+19,Are & Be,Switch,6LACK,207080,76,0.00801,../../Data_Files/Song_Lyrics/are_and_be/Switch_6LACK.txt,0.07338644067796611,0.06457627118644067,0.6767118644067797,0.25866101694915256
+20,Are & Be,Pony - Recorded at Spotify Studios NYC,Leon Bridges,256893,66,0.000192,../../Data_Files/Song_Lyrics/are_and_be/PonyRecordedatSpotifyStudiosNYC_LeonBridges.txt,0.07338644067796611,0.06457627118644067,0.6767118644067797,0.25866101694915256
+21,Are & Be,I Like That,Janelle Monáe,200338,60,0.00243,../../Data_Files/Song_Lyrics/are_and_be/ILikeThat_JanelleMone.txt,0.08655882352941177,0.05166666666666666,0.7592352941176471,0.189078431372549
+22,Are & Be,Happy Without Me,Chloe x Halle,206946,67,0.0,../../Data_Files/Song_Lyrics/are_and_be/HappyWithoutMe_ChloexHalle.txt,0.05293124999999999,0.07397916666666667,0.8470625000000002,0.079
+23,Are & Be,This Way,Khalid,211204,38,0.0,../../Data_Files/Song_Lyrics/are_and_be/ThisWay_Khalid.txt,0.06922112676056338,0.03215492957746479,0.8705070422535209,0.09733802816901409
+24,Are & Be,Blue Lights,Jorja Smith,250454,71,0.0,../../Data_Files/Song_Lyrics/are_and_be/BlueLights_JorjaSmith.txt,0.005190277777777781,0.050347222222222224,0.8979861111111112,0.051666666666666666
+25,Are & Be,Don’t Matter To Me,Drake,245786,80,0.0128,../../Data_Files/Song_Lyrics/are_and_be/DontMatterToMe_Drake.txt,0.001751724137931033,0.07724137931034483,0.8786206896551723,0.04413793103448276
+26,Are & Be,Only Love,Mary J. Blige,226426,60,0.0,../../Data_Files/Song_Lyrics/are_and_be/OnlyLove_MaryJBlige.txt,0.10541428571428571,0.10057142857142856,0.6639999999999999,0.23542857142857146
+27,Are & Be,R.A.N.,Miguel,243235,34,1e-05,../../Data_Files/Song_Lyrics/are_and_be/RAN_Miguel.txt,-0.008061904761904765,0.1443968253968254,0.7158412698412698,0.13976190476190475
+28,Are & Be,Property (feat. Keke Palmer),TK Kravitz,193003,61,0.0,../../Data_Files/Song_Lyrics/are_and_be/PropertyfeatKekePalmer_TKKravitz.txt,0.055494117647058826,0.10930882352941176,0.7224852941176472,0.16820588235294118
+29,Are & Be,SUMMERTIME,Ne-Yo,174930,59,0.22,../../Data_Files/Song_Lyrics/are_and_be/SUMMERTIME_NeYo.txt,0.17756279069767444,0.04216279069767441,0.789860465116279,0.16797674418604652
+30,Are & Be,Hurt To Look (feat. Rae Sremmurd),Swae Lee,256000,32,2.35e-05,../../Data_Files/Song_Lyrics/are_and_be/HurtToLookfeatRaeSremmurd_SwaeLee.txt,0.17756279069767444,0.04216279069767441,0.789860465116279,0.16797674418604652
+31,Are & Be,Medicine,Queen Naija,223259,40,0.0,../../Data_Files/Song_Lyrics/are_and_be/Medicine_QueenNaija.txt,0.02746612903225807,0.09887096774193548,0.7908870967741936,0.11027419354838709
+32,Are & Be,GOOD MAN,Ne-Yo,229220,62,0.0,../../Data_Files/Song_Lyrics/are_and_be/GOODMAN_NeYo.txt,0.18466166666666667,0.029499999999999995,0.7696333333333334,0.20089999999999997
+33,Are & Be,Best Part (feat. H.E.R.),Daniel Caesar,209831,79,0.0,../../Data_Files/Song_Lyrics/are_and_be/BestPartfeatHER_DanielCaesar.txt,0.2984,0.023875,0.7280714285714287,0.2480535714285714
+34,Are & Be,Sativa - Recorded at Spotify Studios NYC,Jhene Aiko,269773,61,0.0,../../Data_Files/Song_Lyrics/are_and_be/SativaRecordedatSpotifyStudiosNYC_JheneAiko.txt,0.2984,0.023875,0.7280714285714287,0.2480535714285714
+35,Are & Be,Doves In The Wind,SZA,266080,69,0.0,../../Data_Files/Song_Lyrics/are_and_be/DovesInTheWind_SZA.txt,0.012498387096774182,0.08235483870967743,0.8217419354838711,0.09588709677419353
+36,Are & Be,Make Luv,Brent Faiyaz,193309,66,5.13e-05,../../Data_Files/Song_Lyrics/are_and_be/MakeLuv_BrentFaiyaz.txt,0.15875074626865673,0.08707462686567163,0.7478507462686569,0.16507462686567168
+37,Are & Be,Sky Walker - Recorded at Spotify Studios NYC,Miguel,184226,60,0.000537,../../Data_Files/Song_Lyrics/are_and_be/SkyWalkerRecordedatSpotifyStudiosNYC_Miguel.txt,0.15875074626865673,0.08707462686567163,0.7478507462686569,0.16507462686567168
+38,Are & Be,Try Me,The Weeknd,221106,75,0.00108,../../Data_Files/Song_Lyrics/are_and_be/TryMe_TheWeeknd.txt,0.117804,0.020860000000000004,0.86592,0.11321999999999999
+39,Are & Be,How Deep Is Your Love - Live,PJ Morton,210132,63,0.0,../../Data_Files/Song_Lyrics/are_and_be/HowDeepIsYourLoveLive_PJMorton.txt,0.13984313725490197,0.03933333333333334,0.7811176470588236,0.17954901960784314
+40,Are & Be,Love Me Right,Amber Mark,291900,33,2.69e-05,../../Data_Files/Song_Lyrics/are_and_be/LoveMeRight_AmberMark.txt,0.24398833333333336,0.04476666666666666,0.74905,0.2061833333333333
+41,Are & Be,Ha Ha (I Love You),Jussie Smollett,204823,56,0.0,../../Data_Files/Song_Lyrics/are_and_be/HaHaILoveYou_JussieSmollett.txt,0.18333428571428567,0.012685714285714286,0.8095142857142857,0.17779999999999999
+42,Are & Be,Long As I Live,Toni Braxton,291813,60,3.9e-05,../../Data_Files/Song_Lyrics/are_and_be/LongAsILive_ToniBraxton.txt,0.04271333333333335,0.09,0.7906444444444443,0.11935555555555555
+43,Are & Be,Favorite,Leon Thomas,213338,58,5.08e-06,../../Data_Files/Song_Lyrics/are_and_be/Favorite_LeonThomas.txt,0.04271333333333335,0.09,0.7906444444444443,0.11935555555555555
+44,Are & Be,Addicted,VanJess,299321,60,0.0,../../Data_Files/Song_Lyrics/are_and_be/Addicted_VanJess.txt,0.0685658536585366,0.03387804878048781,0.8771463414634146,0.08900000000000001
+45,Are & Be,The Ways (with Swae Lee),Khalid,238893,74,1.21e-06,../../Data_Files/Song_Lyrics/are_and_be/TheWayswithSwaeLee_Khalid.txt,0.0685658536585366,0.03387804878048781,0.8771463414634146,0.08900000000000001
+46,Are & Be,One Night Only,Sonder,195909,64,0.0008759999999999999,../../Data_Files/Song_Lyrics/are_and_be/OneNightOnly_Sonder.txt,0.011775757575757578,0.006696969696969697,0.9722727272727273,0.02106060606060606
