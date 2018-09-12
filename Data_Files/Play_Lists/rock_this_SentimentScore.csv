@@ -1,0 +1,51 @@
+,Playlist,Track Name,Artist Name,Duration (ms),Popularity,Instrumentalness,Lyrics Path,compound,negative,neutral,positive
+0,Rock This,MANTRA,Bring Me The Horizon,233297,76,0.0,../../Data_Files/Song_Lyrics/rock_this/MANTRA_BringMeTheHorizon.txt,0.02299250000000001,0.0875,0.78935,0.12325
+1,Rock This,Forever & Ever More,Nothing But Thieves,208133,64,0.00771,../../Data_Files/Song_Lyrics/rock_this/ForeverEverMore_NothingButThieves.txt,0.02622978723404255,0.022191489361702132,0.9410000000000001,0.03680851063829787
+2,Rock This,Natural,Imagine Dragons,189466,89,0.0,../../Data_Files/Song_Lyrics/rock_this/Natural_ImagineDragons.txt,0.08588727272727273,0.05905454545454546,0.7367272727272727,0.20419999999999996
+3,Rock This,Jumpsuit,Twenty One Pilots,238567,80,0.207,../../Data_Files/Song_Lyrics/rock_this/Jumpsuit_TwentyOnePilots.txt,0.08588727272727273,0.05905454545454546,0.7367272727272727,0.20419999999999996
+4,Rock This,The Dark Side,Muse,227215,67,8.62e-06,../../Data_Files/Song_Lyrics/rock_this/TheDarkSide_Muse.txt,0.052869565217391314,0.05226086956521739,0.811782608695652,0.13595652173913042
+5,Rock This,Blood / / Water,grandson,216720,28,0.00215,../../Data_Files/Song_Lyrics/rock_this/BloodWater_grandson.txt,0.052869565217391314,0.05226086956521739,0.811782608695652,0.13595652173913042
+6,Rock This,When The Curtain Falls,Greta Van Fleet,221893,69,0.0706,../../Data_Files/Song_Lyrics/rock_this/WhenTheCurtainFalls_GretaVanFleet.txt,0.1078,0.06353658536585366,0.8158780487804879,0.12058536585365856
+7,Rock This,Make It Up As I Go (feat. K.Flay),Mike Shinoda,209706,60,0.0221,../../Data_Files/Song_Lyrics/rock_this/MakeItUpAsIGofeatKFlay_MikeShinoda.txt,-0.0014569444444444428,0.06881944444444445,0.8698472222222222,0.06127777777777778
+8,Rock This,Love It If We Made It,The 1975,253249,71,1.97e-05,../../Data_Files/Song_Lyrics/rock_this/LoveItIfWeMadeIt_The1975.txt,0.18006037735849056,0.10737735849056605,0.6844150943396227,0.20822641509433965
+9,Rock This,Prayers,Good Charlotte,230027,55,4.85e-06,../../Data_Files/Song_Lyrics/rock_this/Prayers_GoodCharlotte.txt,-0.13737435897435896,0.13930769230769227,0.8321282051282052,0.028564102564102568
+10,Rock This,SCREWS,DREAMERS,200147,61,2.24e-06,../../Data_Files/Song_Lyrics/rock_this/SCREWS_DREAMERS.txt,-0.11927222222222225,0.2219722222222222,0.6949444444444445,0.08308333333333334
+11,Rock This,Ghost,Badflower,259427,66,0.0,../../Data_Files/Song_Lyrics/rock_this/Ghost_Badflower.txt,-0.03019,0.156975,0.7292249999999999,0.11374999999999999
+12,Rock This,High Hopes,Panic! At The Disco,190946,88,0.0,../../Data_Files/Song_Lyrics/rock_this/HighHopes_PanicAtTheDisco.txt,-0.03019,0.156975,0.7292249999999999,0.11374999999999999
+13,Rock This,You'll Be Fine,Palaye Royale,213394,61,0.0,../../Data_Files/Song_Lyrics/rock_this/YoullBeFine_PalayeRoyale.txt,0.003736170212765957,0.0922127659574468,0.817191489361702,0.09059574468085106
+14,Rock This,Only Us,Thrice,224280,61,0.000108,../../Data_Files/Song_Lyrics/rock_this/OnlyUs_Thrice.txt,-0.10668222222222222,0.15313333333333334,0.8166888888888888,0.03017777777777778
+15,Rock This,Nico And The Niners,Twenty One Pilots,227365,80,8.67e-06,../../Data_Files/Song_Lyrics/rock_this/NicoAndTheNiners_TwentyOnePilots.txt,-0.10668222222222222,0.15313333333333334,0.8166888888888888,0.03017777777777778
+16,Rock This,Body Talks,The Struts,176634,64,0.0,../../Data_Files/Song_Lyrics/rock_this/BodyTalks_TheStruts.txt,0.064315,0.046816666666666666,0.8598,0.09338333333333333
+17,Rock This,Glory,The Score,166640,63,2.01e-06,../../Data_Files/Song_Lyrics/rock_this/Glory_TheScore.txt,0.08421320754716982,0.053283018867924525,0.8253962264150944,0.12128301886792453
+18,Rock This,California,YUNGBLUD,231652,58,0.0,../../Data_Files/Song_Lyrics/rock_this/California_YUNGBLUD.txt,0.012064406779661021,0.06579661016949152,0.8687796610169491,0.06544067796610169
+19,Rock This,I Feel Like I'm Drowning,Two Feet,186266,73,0.0072,../../Data_Files/Song_Lyrics/rock_this/IFeelLikeImDrowning_TwoFeet.txt,0.007900000000000004,0.08608888888888888,0.760688888888889,0.15322222222222223
+20,Rock This,Let Me Live / Let Me Die,Des Rocs,207141,61,0.0,../../Data_Files/Song_Lyrics/rock_this/LetMeLiveLetMeDie_DesRocs.txt,0.007900000000000004,0.08608888888888888,0.760688888888889,0.15322222222222223
+21,Rock This,Bulletproof,Godsmack,177048,64,0.0,../../Data_Files/Song_Lyrics/rock_this/Bulletproof_Godsmack.txt,-0.015663636363636366,0.07163636363636364,0.8706818181818181,0.05765909090909091
+22,Rock This,Moving Boxes,With Confidence,195866,55,1.05e-05,../../Data_Files/Song_Lyrics/rock_this/MovingBoxes_WithConfidence.txt,0.09893414634146341,0.02758536585365853,0.8896341463414633,0.08278048780487805
+23,Rock This,Infra-Red,Three Days Grace,230933,51,0.0,../../Data_Files/Song_Lyrics/rock_this/InfraRed_ThreeDaysGrace.txt,0.013529545454545454,0.055545454545454544,0.8778409090909091,0.06661363636363636
+24,Rock This,Dance Macabre,Ghost,219720,27,0.00555,../../Data_Files/Song_Lyrics/rock_this/DanceMacabre_Ghost.txt,0.047635,0.0,0.962175,0.037825000000000004
+25,Rock This,DEVIL,Shinedown,207986,28,6.36e-06,../../Data_Files/Song_Lyrics/rock_this/DEVIL_Shinedown.txt,-0.05767115384615385,0.1073846153846154,0.8315000000000001,0.06115384615384615
+26,Rock This,Are You Ready,Disturbed,261705,67,0.0,../../Data_Files/Song_Lyrics/rock_this/AreYouReady_Disturbed.txt,0.15037088607594937,0.034341772151898736,0.738594936708861,0.2270632911392406
+27,Rock This,Zombie,Bad Wolves,254805,76,0.0,../../Data_Files/Song_Lyrics/rock_this/Zombie_BadWolves.txt,0.15037088607594937,0.034341772151898736,0.738594936708861,0.2270632911392406
+28,Rock This,Heart Afire,Prophets Of Rage,157656,58,0.0293,../../Data_Files/Song_Lyrics/rock_this/HeartAfire_ProphetsOfRage.txt,0.15037088607594937,0.034341772151898736,0.738594936708861,0.2270632911392406
+29,Rock This,Made An America,THE FEVER 333,173326,60,0.0022,../../Data_Files/Song_Lyrics/rock_this/MadeAnAmerica_THEFEVER333.txt,0.15037088607594937,0.034341772151898736,0.738594936708861,0.2270632911392406
+30,Rock This,A Crime To Remember,Pop Evil,202761,61,6.09e-05,../../Data_Files/Song_Lyrics/rock_this/ACrimeToRemember_PopEvil.txt,0.013283928571428568,0.19098214285714285,0.5622142857142857,0.24680357142857146
+31,Rock This,Just Say When (Version 2.0),Nothing More,224343,58,2.48e-06,../../Data_Files/Song_Lyrics/rock_this/JustSayWhenVersion20_NothingMore.txt,-0.06035581395348837,0.09783720930232558,0.835139534883721,0.06702325581395348
+32,Rock This,One,The Hunna,191253,49,0.0891,../../Data_Files/Song_Lyrics/rock_this/One_TheHunna.txt,-0.026334285714285716,0.0388,0.9476571428571429,0.013542857142857143
+33,Rock This,Sinner,Deaf Havana,207010,52,0.0,../../Data_Files/Song_Lyrics/rock_this/Sinner_DeafHavana.txt,-0.11705862068965515,0.14579310344827584,0.8046724137931034,0.049517241379310344
+34,Rock This,Alone In A Room,Asking Alexandria,245861,67,0.0,../../Data_Files/Song_Lyrics/rock_this/AloneInARoom_AskingAlexandria.txt,-0.06744716981132075,0.11864150943396229,0.8120377358490567,0.06932075471698113
+35,Rock This,She's Kerosene,The Interrupters,170453,61,1.74e-05,../../Data_Files/Song_Lyrics/rock_this/ShesKerosene_TheInterrupters.txt,0.016928000000000002,0.033280000000000004,0.92094,0.04582
+36,Rock This,Crazy,From Ashes to New,185696,62,0.0,../../Data_Files/Song_Lyrics/rock_this/Crazy_FromAshestoNew.txt,-0.07842972972972972,0.22643243243243244,0.6747567567567567,0.09881081081081082
+37,Rock This,Simplify,Young the Giant,211845,64,0.0,../../Data_Files/Song_Lyrics/rock_this/Simplify_YoungtheGiant.txt,-0.10265666666666666,0.12596666666666667,0.8306000000000001,0.04343333333333333
+38,Rock This,Sometimes,Gerry Cinnamon,196600,64,0.0,../../Data_Files/Song_Lyrics/rock_this/Sometimes_GerryCinnamon.txt,0.03222666666666667,0.035777777777777776,0.9076444444444445,0.05657777777777778
+39,Rock This,Rescue Me,Thirty Seconds To Mars,217960,67,0.0,../../Data_Files/Song_Lyrics/rock_this/RescueMe_ThirtySecondsToMars.txt,0.03222666666666667,0.035777777777777776,0.9076444444444445,0.05657777777777778
+40,Rock This,Overthinking,Hands Like Houses,173000,58,4.89e-06,../../Data_Files/Song_Lyrics/rock_this/Overthinking_HandsLikeHouses.txt,-0.09635405405405405,0.13978378378378378,0.8037027027027026,0.05651351351351352
+41,Rock This,Disease,Beartooth,228372,64,3.25e-06,../../Data_Files/Song_Lyrics/rock_this/Disease_Beartooth.txt,-0.02285106382978724,0.14291489361702128,0.7646595744680851,0.09242553191489362
+42,Rock This,Surrender,From First To Last,182222,57,1.32e-05,../../Data_Files/Song_Lyrics/rock_this/Surrender_FromFirstToLast.txt,-0.02285106382978724,0.14291489361702128,0.7646595744680851,0.09242553191489362
+43,Rock This,Halo,Boston Manor,223720,34,3.21e-05,../../Data_Files/Song_Lyrics/rock_this/Halo_BostonManor.txt,-0.037899999999999996,0.09407142857142858,0.8586071428571428,0.04732142857142857
+44,Rock This,Numb,Meg Myers,262814,57,2.04e-06,../../Data_Files/Song_Lyrics/rock_this/Numb_MegMyers.txt,-0.0611547619047619,0.17823809523809522,0.6634523809523809,0.15826190476190471
+45,Rock This,You Worry Me,Nathaniel Rateliff & The Night Sweats,214160,28,0.21,../../Data_Files/Song_Lyrics/rock_this/YouWorryMe_NathanielRateliffTheNightSweats.txt,-0.05097027027027027,0.1696216216216216,0.7644594594594596,0.06591891891891892
+46,Rock This,I O U,You Me At Six,211186,61,7.25e-05,../../Data_Files/Song_Lyrics/rock_this/IOU_YouMeAtSix.txt,0.04220227272727273,0.05618181818181818,0.8465,0.09731818181818182
+47,Rock This,Not Dead Yet,LEDGER,216013,56,0.000762,../../Data_Files/Song_Lyrics/rock_this/NotDeadYet_LEDGER.txt,-0.026572916666666658,0.13629166666666667,0.7523541666666667,0.11135416666666668
+48,Rock This,Sit Next to Me,Foster The People,243146,77,0.000384,../../Data_Files/Song_Lyrics/rock_this/SitNexttoMe_FosterThePeople.txt,0.057757575757575765,0.027303030303030305,0.8167878787878788,0.1558787878787879
+49,Rock This,Pictures of Girls,Wallows,204106,63,0.007140000000000001,../../Data_Files/Song_Lyrics/rock_this/PicturesofGirls_Wallows.txt,0.010374999999999999,0.021535714285714287,0.9585,0.019964285714285712

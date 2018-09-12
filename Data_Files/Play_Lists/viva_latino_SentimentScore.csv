@@ -1,0 +1,51 @@
+,Playlist,Track Name,Artist Name,Duration (ms),Popularity,Instrumentalness,Lyrics Path,compound,negative,neutral,positive
+0,¡Viva Latino!,Clandestino,Shakira,231920,90,3.37e-05,../../Data_Files/Song_Lyrics/viva_latino/Clandestino_Shakira.txt,-0.1313985294117647,0.1188235294117647,0.8657647058823529,0.015411764705882354
+1,¡Viva Latino!,Vaina Loca,Ozuna,176133,91,0.0,../../Data_Files/Song_Lyrics/viva_latino/VainaLoca_Ozuna.txt,-0.10225454545454546,0.10376363636363636,0.8926727272727275,0.003563636363636364
+2,¡Viva Latino!,Te Boté - Remix,Nio Garcia,417920,93,1.28e-05,../../Data_Files/Song_Lyrics/viva_latino/TeBotRemix_NioGarcia.txt,-0.10225454545454546,0.10376363636363636,0.8926727272727275,0.003563636363636364
+3,¡Viva Latino!,Sin Pijama,Becky G,188560,92,2.93e-05,../../Data_Files/Song_Lyrics/viva_latino/SinPijama_BeckyG.txt,-0.10225454545454546,0.10376363636363636,0.8926727272727275,0.003563636363636364
+4,¡Viva Latino!,X - Remix,Nicky Jam,235746,88,3.77e-05,../../Data_Files/Song_Lyrics/viva_latino/XRemix_NickyJam.txt,-0.10225454545454546,0.10376363636363636,0.8926727272727275,0.003563636363636364
+5,¡Viva Latino!,Amigos Con Derechos,Reik,227476,73,0.0,../../Data_Files/Song_Lyrics/viva_latino/AmigosConDerechos_Reik.txt,-0.10225454545454546,0.10376363636363636,0.8926727272727275,0.003563636363636364
+6,¡Viva Latino!,No Es Justo,J Balvin,250840,86,0.000363,../../Data_Files/Song_Lyrics/viva_latino/NoEsJusto_JBalvin.txt,-0.07549638554216868,0.0643855421686747,0.9325301204819274,0.00308433734939759
+7,¡Viva Latino!,Celoso,Lele Pons,179693,80,0.0,../../Data_Files/Song_Lyrics/viva_latino/Celoso_LelePons.txt,-0.014713793103448275,0.06153448275862069,0.8953448275862069,0.04312068965517242
+8,¡Viva Latino!,No Me Acuerdo,Thalía,217653,87,0.0,../../Data_Files/Song_Lyrics/viva_latino/NoMeAcuerdo_Thala.txt,-0.21478571428571427,0.20226785714285714,0.779875,0.017857142857142856
+9,¡Viva Latino!,Dura - Remix,Daddy Yankee,242160,86,0.0,../../Data_Files/Song_Lyrics/viva_latino/DuraRemix_DaddyYankee.txt,-0.039696938775510206,0.032612244897959185,0.9661326530612244,0.0012653061224489797
+10,¡Viva Latino!,La Player (Bandolera),Zion & Lennox,249608,88,0.0,../../Data_Files/Song_Lyrics/viva_latino/LaPlayerBandolera_ZionLennox.txt,-0.048303960396039604,0.05153465346534654,0.939930693069307,0.008534653465346535
+11,¡Viva Latino!,Cuando Te Besé,Becky G,254383,86,5.14e-06,../../Data_Files/Song_Lyrics/viva_latino/CuandoTeBes_BeckyG.txt,-0.07706428571428571,0.08916666666666667,0.9040238095238096,0.006809523809523809
+12,¡Viva Latino!,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",Sofia Reyes,201526,88,0.0,../../Data_Files/Song_Lyrics/viva_latino/123featJasonDeruloDeLaGhetto_SofiaReyes.txt,-0.07706428571428571,0.08916666666666667,0.9040238095238096,0.006809523809523809
+13,¡Viva Latino!,Mi Cama - Remix,Karol G,196320,85,0.0,../../Data_Files/Song_Lyrics/viva_latino/MiCamaRemix_KarolG.txt,-0.0616890625,0.056734375,0.943265625,0.0
+14,¡Viva Latino!,Me Niego,Reik,221653,88,0.0,../../Data_Files/Song_Lyrics/viva_latino/MeNiego_Reik.txt,-0.039255421686746984,0.04933734939759036,0.9435060240963856,0.007156626506024096
+15,¡Viva Latino!,I Like It,Cardi B,253390,95,0.0,../../Data_Files/Song_Lyrics/viva_latino/ILikeIt_CardiB.txt,0.13966944444444446,0.06604166666666667,0.712013888888889,0.22194444444444444
+16,¡Viva Latino!,Hipócrita,Anuel Aa,192000,84,0.0,../../Data_Files/Song_Lyrics/viva_latino/Hipcrita_AnuelAa.txt,0.13966944444444446,0.06604166666666667,0.712013888888889,0.22194444444444444
+17,¡Viva Latino!,Asesina,Brytiago,187213,87,0.0,../../Data_Files/Song_Lyrics/viva_latino/Asesina_Brytiago.txt,0.13966944444444446,0.06604166666666667,0.712013888888889,0.22194444444444444
+18,¡Viva Latino!,Mala Mía,Maluma,183752,85,0.0,../../Data_Files/Song_Lyrics/viva_latino/MalaMa_Maluma.txt,-0.01239782608695652,0.0555,0.9157826086956523,0.02871739130434783
+19,¡Viva Latino!,Síguelo Bailando,Ozuna,226800,85,3.97e-05,../../Data_Files/Song_Lyrics/viva_latino/SgueloBailando_Ozuna.txt,-0.074116,0.05309333333333333,0.9469066666666667,0.0
+20,¡Viva Latino!,Por Perro,Sebastian Yatra,245360,84,0.0,../../Data_Files/Song_Lyrics/viva_latino/PorPerro_SebastianYatra.txt,-0.074116,0.05309333333333333,0.9469066666666667,0.0
+21,¡Viva Latino!,Unica,Ozuna,219682,86,1.95e-06,../../Data_Files/Song_Lyrics/viva_latino/Unica_Ozuna.txt,-0.014283333333333334,0.02221794871794872,0.9638333333333332,0.013935897435897435
+22,¡Viva Latino!,Epa Wei,Danny Ocean,208253,78,0.0,../../Data_Files/Song_Lyrics/viva_latino/EpaWei_DannyOcean.txt,0.013621538461538461,0.1043076923076923,0.8040153846153847,0.09167692307692307
+23,¡Viva Latino!,La Vida Sin Ti,Piso 21,194984,79,0.0,../../Data_Files/Song_Lyrics/viva_latino/LaVidaSinTi_Piso21.txt,-0.26400714285714283,0.21475714285714284,0.7821714285714285,0.0030714285714285713
+24,¡Viva Latino!,Bella - Remix,Wolfine,218360,77,0.0,../../Data_Files/Song_Lyrics/viva_latino/BellaRemix_Wolfine.txt,-0.002267924528301884,0.02667924528301887,0.9484905660377357,0.024830188679245285
+25,¡Viva Latino!,No Quiero Amarte (feat. Zion & Lennox),Justin Quiles,235315,84,0.0,../../Data_Files/Song_Lyrics/viva_latino/NoQuieroAmartefeatZionLennox_JustinQuiles.txt,-0.07505142857142857,0.05744285714285714,0.9425571428571429,0.0
+26,¡Viva Latino!,Medicina,Anitta,141508,83,0.0129,../../Data_Files/Song_Lyrics/viva_latino/Medicina_Anitta.txt,-0.03984615384615385,0.03896153846153846,0.9610384615384616,0.0
+27,¡Viva Latino!,Se Vuelve Loca,CNCO,191666,74,0.0,../../Data_Files/Song_Lyrics/viva_latino/SeVuelveLoca_CNCO.txt,-0.0313939393939394,0.03440909090909091,0.965590909090909,0.0
+28,¡Viva Latino!,Zum Zum,Daddy Yankee,235773,82,4.59e-06,../../Data_Files/Song_Lyrics/viva_latino/ZumZum_DaddyYankee.txt,-0.036307692307692305,0.053602564102564094,0.9434871794871793,0.0029102564102564104
+29,¡Viva Latino!,Toda - Remix,Alex Rose,367680,85,0.0,../../Data_Files/Song_Lyrics/viva_latino/TodaRemix_AlexRose.txt,-0.021491735537190085,0.020396694214876034,0.9663388429752066,0.013264462809917355
+30,¡Viva Latino!,Quiere Beber,Anuel Aa,187125,84,0.00524,../../Data_Files/Song_Lyrics/viva_latino/QuiereBeber_AnuelAa.txt,-0.021491735537190085,0.020396694214876034,0.9663388429752066,0.013264462809917355
+31,¡Viva Latino!,Culpables,Manuel Turizo,233929,82,5.65e-06,../../Data_Files/Song_Lyrics/viva_latino/Culpables_ManuelTurizo.txt,-0.14120487804878049,0.10629268292682928,0.8937073170731709,0.0
+32,¡Viva Latino!,El Préstamo,Maluma,219396,51,0.0,../../Data_Files/Song_Lyrics/viva_latino/ElPrstamo_Maluma.txt,-0.1084,0.12835,0.8382833333333333,0.03336666666666667
+33,¡Viva Latino!,¿Qué Tiene?,Ximena Sariñana,177272,71,0.00462,../../Data_Files/Song_Lyrics/viva_latino/QuTiene_XimenaSariana.txt,-0.08705882352941176,0.11349999999999999,0.8865,0.0
+34,¡Viva Latino!,La Cintura (feat. Flo Rida & TINI) - Remix,Alvaro Soler,177793,80,0.0,../../Data_Files/Song_Lyrics/viva_latino/LaCinturafeatFloRidaTINIRemix_AlvaroSoler.txt,0.03254461538461538,0.03829230769230769,0.9071692307692307,0.054538461538461536
+35,¡Viva Latino!,Madura (feat. Bad Bunny),Cosculluela,190909,86,1.34e-06,../../Data_Files/Song_Lyrics/viva_latino/MadurafeatBadBunny_Cosculluela.txt,-0.06286911764705883,0.060338235294117644,0.931485294117647,0.008176470588235295
+36,¡Viva Latino!,Chica Paranormal,Paulo Londra,221214,83,0.0,../../Data_Files/Song_Lyrics/viva_latino/ChicaParanormal_PauloLondra.txt,-0.0706735294117647,0.06754411764705882,0.9302058823529412,0.00225
+37,¡Viva Latino!,Te Amo,Piso 21,201122,85,5.98e-06,../../Data_Files/Song_Lyrics/viva_latino/TeAmo_Piso21.txt,-0.02357076923076923,0.03561538461538461,0.9545846153846154,0.0098
+38,¡Viva Latino!,Ambiente,J Balvin,249253,80,0.0,../../Data_Files/Song_Lyrics/viva_latino/Ambiente_JBalvin.txt,-0.07047027027027027,0.0731081081081081,0.9225135135135136,0.004378378378378379
+39,¡Viva Latino!,El Clavo - Remix,Prince Royce,171337,82,0.0,../../Data_Files/Song_Lyrics/viva_latino/ElClavoRemix_PrinceRoyce.txt,-0.11623809523809524,0.09557142857142856,0.9017301587301588,0.0026984126984126986
+40,¡Viva Latino!,Usted,Juan Magán,233748,82,0.0,../../Data_Files/Song_Lyrics/viva_latino/Usted_JuanMagn.txt,-0.09790307692307691,0.09104615384615383,0.8962307692307692,0.012723076923076922
+41,¡Viva Latino!,Calypso,Luis Fonsi,200346,85,0.0,../../Data_Files/Song_Lyrics/viva_latino/Calypso_LuisFonsi.txt,0.026924731182795703,0.01826881720430108,0.9330537634408601,0.048677419354838714
+42,¡Viva Latino!,El Farsante - Remix,Ozuna,258000,82,0.0,../../Data_Files/Song_Lyrics/viva_latino/ElFarsanteRemix_Ozuna.txt,-0.039074999999999985,0.10659375,0.8400156249999999,0.053390625
+43,¡Viva Latino!,Cuando Nadie Ve,Morat,219184,81,0.0,../../Data_Files/Song_Lyrics/viva_latino/CuandoNadieVe_Morat.txt,-0.04392419354838709,0.06464516129032256,0.9210322580645162,0.01432258064516129
+44,¡Viva Latino!,Quien Sabe,Natti Natasha,271013,74,0.00014099999999999998,../../Data_Files/Song_Lyrics/viva_latino/QuienSabe_NattiNatasha.txt,0.019561904761904763,0.049523809523809526,0.919095238095238,0.031380952380952384
+45,¡Viva Latino!,Estamos Bien,Bad Bunny,208079,86,4.45e-06,../../Data_Files/Song_Lyrics/viva_latino/EstamosBien_BadBunny.txt,-0.052250909090909084,0.059800000000000006,0.915709090909091,0.02449090909090909
+46,¡Viva Latino!,Dicen,Matt Hunter,220826,79,7.85e-06,../../Data_Files/Song_Lyrics/viva_latino/Dicen_MattHunter.txt,-0.052250909090909084,0.059800000000000006,0.915709090909091,0.02449090909090909
+47,¡Viva Latino!,Marinero,Maluma,189133,42,0.0,../../Data_Files/Song_Lyrics/viva_latino/Marinero_Maluma.txt,0.04208333333333334,0.020050000000000002,0.9355499999999999,0.0444
+48,¡Viva Latino!,Sirena,Cali Y El Dandee,205791,77,9.48e-06,../../Data_Files/Song_Lyrics/viva_latino/Sirena_CaliYElDandee.txt,-0.03665316455696202,0.04936708860759494,0.9406835443037974,0.009949367088607596
+49,¡Viva Latino!,Pa Dentro,Juanes,195533,75,0.00787,../../Data_Files/Song_Lyrics/viva_latino/PaDentro_Juanes.txt,-0.007789473684210526,0.011197368421052631,0.9841315789473684,0.004671052631578947

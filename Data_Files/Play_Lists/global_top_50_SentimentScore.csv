@@ -1,0 +1,51 @@
+,Playlist,Track Name,Artist Name,Duration (ms),Popularity,Instrumentalness,Lyrics Path,compound,negative,neutral,positive
+0,Global Top 50,Lucky You (feat. Joyner Lucas),Eminem,244679,88,0.0,../../Data_Files/Song_Lyrics/global_top_50/LuckyYoufeatJoynerLucas_Eminem.txt,-0.06418211382113823,0.11209756097560974,0.8048536585365853,0.08304878048780488
+1,Global Top 50,In My Feelings,Drake,217925,100,6e-05,../../Data_Files/Song_Lyrics/global_top_50/InMyFeelings_Drake.txt,-0.022602702702702704,0.11904054054054053,0.7779999999999999,0.10297297297297298
+2,Global Top 50,The Ringer,Eminem,337941,88,0.0,../../Data_Files/Song_Lyrics/global_top_50/TheRinger_Eminem.txt,-0.08427806451612903,0.10631612903225805,0.8242387096774193,0.06944516129032258
+3,Global Top 50,Eastside (with Halsey & Khalid),benny blanco,173799,95,0.0,../../Data_Files/Song_Lyrics/global_top_50/EastsidewithHalseyKhalid_bennyblanco.txt,-0.08427806451612903,0.10631612903225805,0.8242387096774193,0.06944516129032258
+4,Global Top 50,Girls Like You (feat. Cardi B),Maroon 5,235545,86,0.0,../../Data_Files/Song_Lyrics/global_top_50/GirlsLikeYoufeatCardiB_Maroon5.txt,0.3210712121212121,0.03227272727272727,0.6176212121212121,0.3501060606060606
+5,Global Top 50,FEFE (feat. Nicki Minaj & Murda Beatz),6ix9ine,179404,96,0.0,../../Data_Files/Song_Lyrics/global_top_50/FEFEfeatNickiMinajMurdaBeatz_6ix9ine.txt,0.1592046875,0.0861875,0.7194531249999999,0.19434375
+6,Global Top 50,SICKO MODE,Travis Scott,312820,95,0.0,../../Data_Files/Song_Lyrics/global_top_50/SICKOMODE_TravisScott.txt,0.07135,0.07182653061224491,0.7631428571428571,0.16503061224489798
+7,Global Top 50,Promises (with Sam Smith),Calvin Harris,213309,90,4.91e-06,../../Data_Files/Song_Lyrics/global_top_50/PromiseswithSamSmith_CalvinHarris.txt,0.07135,0.07182653061224491,0.7631428571428571,0.16503061224489798
+8,Global Top 50,In My Mind,Dynoro,184560,94,1.1e-05,../../Data_Files/Song_Lyrics/global_top_50/InMyMind_Dynoro.txt,0.07135,0.07182653061224491,0.7631428571428571,0.16503061224489798
+9,Global Top 50,Happier,Marshmello,214289,89,0.0,../../Data_Files/Song_Lyrics/global_top_50/Happier_Marshmello.txt,0.10137169811320756,0.035622641509433964,0.8305471698113207,0.1338301886792453
+10,Global Top 50,Fall,Eminem,262493,84,0.0,../../Data_Files/Song_Lyrics/global_top_50/Fall_Eminem.txt,-0.008992592592592592,0.07503703703703703,0.8511388888888889,0.0738148148148148
+11,Global Top 50,Lucid Dreams,Juice WRLD,239835,95,0.0,../../Data_Files/Song_Lyrics/global_top_50/LucidDreams_JuiceWRLD.txt,0.025679452054794518,0.1274794520547945,0.7493013698630137,0.12323287671232877
+12,Global Top 50,Greatest,Eminem,226937,85,0.0,../../Data_Files/Song_Lyrics/global_top_50/Greatest_Eminem.txt,0.023544347826086953,0.1144608695652174,0.7518608695652174,0.13368695652173915
+13,Global Top 50,Not Alike (feat. Royce Da 5'9),Eminem,288086,84,0.0,../../Data_Files/Song_Lyrics/global_top_50/NotAlikefeatRoyceDa59_Eminem.txt,-0.026403333333333324,0.09532,0.8274666666666666,0.0772
+14,Global Top 50,No Brainer,DJ Khaled,260000,95,0.0,../../Data_Files/Song_Lyrics/global_top_50/NoBrainer_DJKhaled.txt,0.06297207207207207,0.03354054054054054,0.843963963963964,0.1224954954954955
+15,Global Top 50,Taste (feat. Offset),Tyga,232959,95,0.0,../../Data_Files/Song_Lyrics/global_top_50/TastefeatOffset_Tyga.txt,0.04112469135802469,0.09058024691358024,0.7786543209876543,0.13076543209876543
+16,Global Top 50,God is a woman,Ariana Grande,197546,91,6e-05,../../Data_Files/Song_Lyrics/global_top_50/Godisawoman_ArianaGrande.txt,0.20454218750000003,0.0,0.798609375,0.201390625
+17,Global Top 50,Kamikaze,Eminem,216029,84,0.0,../../Data_Files/Song_Lyrics/global_top_50/Kamikaze_Eminem.txt,-0.05591477272727272,0.09595454545454545,0.8340454545454545,0.07001136363636364
+18,Global Top 50,Be Alright,Dean Lewis,196373,90,0.0,../../Data_Files/Song_Lyrics/global_top_50/BeAlright_DeanLewis.txt,0.08075833333333333,0.05852777777777778,0.7264166666666667,0.21508333333333335
+19,Global Top 50,breathin,Ariana Grande,198160,92,1.3699999999999998e-05,../../Data_Files/Song_Lyrics/global_top_50/breathin_ArianaGrande.txt,0.05151,0.013775,0.9296749999999999,0.05655
+20,Global Top 50,I Like It,Cardi B,253390,95,0.0,../../Data_Files/Song_Lyrics/global_top_50/ILikeIt_CardiB.txt,0.13966944444444446,0.06604166666666667,0.712013888888889,0.22194444444444444
+21,Global Top 50,SAD!,XXXTENTACION,166605,95,0.00372,../../Data_Files/Song_Lyrics/global_top_50/SAD_XXXTENTACION.txt,-0.2526424242424242,0.22215151515151516,0.694939393939394,0.08290909090909092
+22,Global Top 50,Vaina Loca,Ozuna,176133,79,0.0,../../Data_Files/Song_Lyrics/global_top_50/VainaLoca_Ozuna.txt,-0.10225454545454546,0.10376363636363636,0.8926727272727275,0.003563636363636364
+23,Global Top 50,Body (feat. brando),Loud Luxury,163216,73,9.44e-05,../../Data_Files/Song_Lyrics/global_top_50/Bodyfeatbrando_LoudLuxury.txt,0.17128461538461537,0.08467307692307693,0.6821538461538463,0.23307692307692301
+24,Global Top 50,Rise,Jonas Blue,194407,94,0.0,../../Data_Files/Song_Lyrics/global_top_50/Rise_JonasBlue.txt,-0.0644111111111111,0.12164814814814816,0.818148148148148,0.06020370370370371
+25,Global Top 50,Better Now,Post Malone,231266,94,0.0,../../Data_Files/Song_Lyrics/global_top_50/BetterNow_PostMalone.txt,0.10702542372881357,0.036033898305084744,0.8478474576271186,0.11611864406779661
+26,Global Top 50,Solo (feat. Demi Lovato),Clean Bandit,222653,95,6.659999999999999e-05,../../Data_Files/Song_Lyrics/global_top_50/SolofeatDemiLovato_CleanBandit.txt,-0.022579518072289154,0.05157831325301204,0.8953493975903614,0.0530722891566265
+27,Global Top 50,BEBE,6ix9ine,217822,82,0.0,../../Data_Files/Song_Lyrics/global_top_50/BEBE_6ix9ine.txt,-0.009556896551724134,0.028603448275862073,0.9508793103448275,0.020517241379310346
+28,Global Top 50,Normal,Eminem,222477,83,0.0,../../Data_Files/Song_Lyrics/global_top_50/Normal_Eminem.txt,-0.028042268041237113,0.09336082474226803,0.8344845360824742,0.0721340206185567
+29,Global Top 50,Jackie Chan,Tiësto,215759,94,0.0,../../Data_Files/Song_Lyrics/global_top_50/JackieChan_Tisto.txt,-0.028042268041237113,0.09336082474226803,0.8344845360824742,0.0721340206185567
+30,Global Top 50,Youngblood,5 Seconds of Summer,203417,87,0.0,../../Data_Files/Song_Lyrics/global_top_50/Youngblood_5SecondsofSummer.txt,0.01426825396825397,0.0611111111111111,0.8305873015873015,0.10830158730158732
+31,Global Top 50,Stepping Stone,Eminem,309637,83,0.0,../../Data_Files/Song_Lyrics/global_top_50/SteppingStone_Eminem.txt,0.03394368932038835,0.08533009708737864,0.8069320388349517,0.10775728155339806
+32,Global Top 50,Te Boté - Remix,Nio Garcia,417920,93,1.28e-05,../../Data_Files/Song_Lyrics/global_top_50/TeBotRemix_NioGarcia.txt,0.03394368932038835,0.08533009708737864,0.8069320388349517,0.10775728155339806
+33,Global Top 50,Moonlight,XXXTENTACION,135090,93,0.00404,../../Data_Files/Song_Lyrics/global_top_50/Moonlight_XXXTENTACION.txt,-0.06924,0.13582222222222223,0.7482888888888891,0.11588888888888889
+34,Global Top 50,Nonstop,Drake,238614,92,0.013,../../Data_Files/Song_Lyrics/global_top_50/Nonstop_Drake.txt,-0.02017866666666666,0.11185333333333335,0.7886399999999999,0.09952
+35,Global Top 50,One Kiss (with Dua Lipa),Calvin Harris,214846,94,2.19e-05,../../Data_Files/Song_Lyrics/global_top_50/OneKisswithDuaLipa_CalvinHarris.txt,-0.02017866666666666,0.11185333333333335,0.7886399999999999,0.09952
+36,Global Top 50,Natural,Imagine Dragons,189466,89,0.0,../../Data_Files/Song_Lyrics/global_top_50/Natural_ImagineDragons.txt,0.08588727272727273,0.05905454545454546,0.7367272727272727,0.20419999999999996
+37,Global Top 50,Venom - Music From The Motion Picture,Eminem,269554,81,0.0,../../Data_Files/Song_Lyrics/global_top_50/VenomMusicFromTheMotionPicture_Eminem.txt,-0.05304049586776859,0.09004132231404958,0.8545619834710744,0.055404958677685946
+38,Global Top 50,Happy Now,Zedd,207029,91,1.49e-06,../../Data_Files/Song_Lyrics/global_top_50/HappyNow_Zedd.txt,-0.05304049586776859,0.09004132231404958,0.8545619834710744,0.055404958677685946
+39,Global Top 50,Good Guy (feat. Jessie Reyez),Eminem,142192,81,0.0,../../Data_Files/Song_Lyrics/global_top_50/GoodGuyfeatJessieReyez_Eminem.txt,-0.006013725490196084,0.1254705882352941,0.7554117647058824,0.11911764705882354
+40,Global Top 50,Beautiful (feat. Camila Cabello),Bazzi,180000,90,0.0,../../Data_Files/Song_Lyrics/global_top_50/BeautifulfeatCamilaCabello_Bazzi.txt,0.2876170212765958,0.03040425531914893,0.7165531914893617,0.2530212765957447
+41,Global Top 50,Sin Pijama,Becky G,188560,92,2.93e-05,../../Data_Files/Song_Lyrics/global_top_50/SinPijama_BeckyG.txt,0.2876170212765958,0.03040425531914893,0.7165531914893617,0.2530212765957447
+42,Global Top 50,No Es Justo,J Balvin,250840,86,0.000363,../../Data_Files/Song_Lyrics/global_top_50/NoEsJusto_JBalvin.txt,-0.07549638554216868,0.0643855421686747,0.9325301204819274,0.00308433734939759
+43,Global Top 50,Paul - Skit,Paul Rosenberg,35240,82,0.0,../../Data_Files/Song_Lyrics/global_top_50/PaulSkit_PaulRosenberg.txt,-0.07549638554216868,0.0643855421686747,0.9325301204819274,0.00308433734939759
+44,Global Top 50,God's Plan,Drake,198973,91,8.290000000000001e-05,../../Data_Files/Song_Lyrics/global_top_50/GodsPlan_Drake.txt,0.014895918367346939,0.13208163265306122,0.7511020408163267,0.11681632653061225
+45,Global Top 50,no tears left to cry,Ariana Grande,205920,88,3.11e-06,../../Data_Files/Song_Lyrics/global_top_50/notearslefttocry_ArianaGrande.txt,0.073803125,0.0371875,0.825734375,0.137078125
+46,Global Top 50,STARGAZING,Travis Scott,270714,91,4.05e-06,../../Data_Files/Song_Lyrics/global_top_50/STARGAZING_TravisScott.txt,-0.016816363636363633,0.10992727272727272,0.7947818181818181,0.0952909090909091
+47,Global Top 50,Shotgun,George Ezra,201287,90,0.0,../../Data_Files/Song_Lyrics/global_top_50/Shotgun_GeorgeEzra.txt,0.1143422222222222,0.0,0.8141111111111113,0.18588888888888888
+48,Global Top 50,Nice Guy (with Jessie Reyez),Eminem,150801,80,0.0,../../Data_Files/Song_Lyrics/global_top_50/NiceGuywithJessieReyez_Eminem.txt,-0.08599787234042554,0.18531914893617024,0.6944893617021276,0.1202127659574468
+49,Global Top 50,Whenever (feat. Conor Maynard),Kris Kross Amsterdam,163636,87,0.0,../../Data_Files/Song_Lyrics/global_top_50/WheneverfeatConorMaynard_KrisKrossAmsterdam.txt,-0.08599787234042554,0.18531914893617024,0.6944893617021276,0.1202127659574468
