@@ -1,0 +1,51 @@
+,Playlist,Track Name,Artist Name,Duration (ms),Popularity,Instrumentalness,Lyrics Path
+0,Global Top 50,Lucky You (feat. Joyner Lucas),Eminem,244679,88,0.0,../../Data_Files/Song_Lyrics/global_top_50/LuckyYoufeatJoynerLucas_Eminem.txt
+1,Global Top 50,In My Feelings,Drake,217925,100,5.9999999999999995e-05,../../Data_Files/Song_Lyrics/global_top_50/InMyFeelings_Drake.txt
+2,Global Top 50,The Ringer,Eminem,337941,88,0.0,../../Data_Files/Song_Lyrics/global_top_50/TheRinger_Eminem.txt
+3,Global Top 50,Eastside (with Halsey & Khalid),benny blanco,173799,95,0.0,../../Data_Files/Song_Lyrics/global_top_50/EastsidewithHalseyKhalid_bennyblanco.txt
+4,Global Top 50,Girls Like You (feat. Cardi B),Maroon 5,235545,86,0.0,../../Data_Files/Song_Lyrics/global_top_50/GirlsLikeYoufeatCardiB_Maroon5.txt
+5,Global Top 50,FEFE (feat. Nicki Minaj & Murda Beatz),6ix9ine,179404,96,0.0,../../Data_Files/Song_Lyrics/global_top_50/FEFEfeatNickiMinajMurdaBeatz_6ix9ine.txt
+6,Global Top 50,SICKO MODE,Travis Scott,312820,95,0.0,../../Data_Files/Song_Lyrics/global_top_50/SICKOMODE_TravisScott.txt
+7,Global Top 50,Promises (with Sam Smith),Calvin Harris,213309,90,4.91e-06,../../Data_Files/Song_Lyrics/global_top_50/PromiseswithSamSmith_CalvinHarris.txt
+8,Global Top 50,In My Mind,Dynoro,184560,94,1.1e-05,../../Data_Files/Song_Lyrics/global_top_50/InMyMind_Dynoro.txt
+9,Global Top 50,Happier,Marshmello,214289,89,0.0,../../Data_Files/Song_Lyrics/global_top_50/Happier_Marshmello.txt
+10,Global Top 50,Fall,Eminem,262493,84,0.0,../../Data_Files/Song_Lyrics/global_top_50/Fall_Eminem.txt
+11,Global Top 50,Lucid Dreams,Juice WRLD,239835,95,0.0,../../Data_Files/Song_Lyrics/global_top_50/LucidDreams_JuiceWRLD.txt
+12,Global Top 50,Greatest,Eminem,226937,85,0.0,../../Data_Files/Song_Lyrics/global_top_50/Greatest_Eminem.txt
+13,Global Top 50,Not Alike (feat. Royce Da 5'9),Eminem,288086,84,0.0,../../Data_Files/Song_Lyrics/global_top_50/NotAlikefeatRoyceDa59_Eminem.txt
+14,Global Top 50,No Brainer,DJ Khaled,260000,95,0.0,../../Data_Files/Song_Lyrics/global_top_50/NoBrainer_DJKhaled.txt
+15,Global Top 50,Taste (feat. Offset),Tyga,232959,95,0.0,../../Data_Files/Song_Lyrics/global_top_50/TastefeatOffset_Tyga.txt
+16,Global Top 50,God is a woman,Ariana Grande,197546,91,5.9999999999999995e-05,../../Data_Files/Song_Lyrics/global_top_50/Godisawoman_ArianaGrande.txt
+17,Global Top 50,Kamikaze,Eminem,216029,84,0.0,../../Data_Files/Song_Lyrics/global_top_50/Kamikaze_Eminem.txt
+18,Global Top 50,Be Alright,Dean Lewis,196373,90,0.0,../../Data_Files/Song_Lyrics/global_top_50/BeAlright_DeanLewis.txt
+19,Global Top 50,breathin,Ariana Grande,198160,92,1.3699999999999998e-05,../../Data_Files/Song_Lyrics/global_top_50/breathin_ArianaGrande.txt
+20,Global Top 50,I Like It,Cardi B,253390,95,0.0,../../Data_Files/Song_Lyrics/global_top_50/ILikeIt_CardiB.txt
+21,Global Top 50,SAD!,XXXTENTACION,166605,95,0.00372,../../Data_Files/Song_Lyrics/global_top_50/SAD_XXXTENTACION.txt
+22,Global Top 50,Vaina Loca,Ozuna,176133,79,0.0,../../Data_Files/Song_Lyrics/global_top_50/VainaLoca_Ozuna.txt
+23,Global Top 50,Body (feat. brando),Loud Luxury,163216,73,9.44e-05,../../Data_Files/Song_Lyrics/global_top_50/Bodyfeatbrando_LoudLuxury.txt
+24,Global Top 50,Rise,Jonas Blue,194407,94,0.0,../../Data_Files/Song_Lyrics/global_top_50/Rise_JonasBlue.txt
+25,Global Top 50,Better Now,Post Malone,231266,94,0.0,../../Data_Files/Song_Lyrics/global_top_50/BetterNow_PostMalone.txt
+26,Global Top 50,Solo (feat. Demi Lovato),Clean Bandit,222653,95,6.659999999999999e-05,../../Data_Files/Song_Lyrics/global_top_50/SolofeatDemiLovato_CleanBandit.txt
+27,Global Top 50,BEBE,6ix9ine,217822,82,0.0,../../Data_Files/Song_Lyrics/global_top_50/BEBE_6ix9ine.txt
+28,Global Top 50,Normal,Eminem,222477,83,0.0,../../Data_Files/Song_Lyrics/global_top_50/Normal_Eminem.txt
+29,Global Top 50,Jackie Chan,Tiësto,215759,94,0.0,../../Data_Files/Song_Lyrics/global_top_50/JackieChan_Tisto.txt
+30,Global Top 50,Youngblood,5 Seconds of Summer,203417,87,0.0,../../Data_Files/Song_Lyrics/global_top_50/Youngblood_5SecondsofSummer.txt
+31,Global Top 50,Stepping Stone,Eminem,309637,83,0.0,../../Data_Files/Song_Lyrics/global_top_50/SteppingStone_Eminem.txt
+32,Global Top 50,Te Boté - Remix,Nio Garcia,417920,93,1.28e-05,../../Data_Files/Song_Lyrics/global_top_50/TeBotRemix_NioGarcia.txt
+33,Global Top 50,Moonlight,XXXTENTACION,135090,93,0.00404,../../Data_Files/Song_Lyrics/global_top_50/Moonlight_XXXTENTACION.txt
+34,Global Top 50,Nonstop,Drake,238614,92,0.013000000000000001,../../Data_Files/Song_Lyrics/global_top_50/Nonstop_Drake.txt
+35,Global Top 50,One Kiss (with Dua Lipa),Calvin Harris,214846,94,2.1899999999999997e-05,../../Data_Files/Song_Lyrics/global_top_50/OneKisswithDuaLipa_CalvinHarris.txt
+36,Global Top 50,Natural,Imagine Dragons,189466,89,0.0,../../Data_Files/Song_Lyrics/global_top_50/Natural_ImagineDragons.txt
+37,Global Top 50,Venom - Music From The Motion Picture,Eminem,269554,81,0.0,../../Data_Files/Song_Lyrics/global_top_50/VenomMusicFromTheMotionPicture_Eminem.txt
+38,Global Top 50,Happy Now,Zedd,207029,91,1.49e-06,../../Data_Files/Song_Lyrics/global_top_50/HappyNow_Zedd.txt
+39,Global Top 50,Good Guy (feat. Jessie Reyez),Eminem,142192,81,0.0,../../Data_Files/Song_Lyrics/global_top_50/GoodGuyfeatJessieReyez_Eminem.txt
+40,Global Top 50,Beautiful (feat. Camila Cabello),Bazzi,180000,90,0.0,../../Data_Files/Song_Lyrics/global_top_50/BeautifulfeatCamilaCabello_Bazzi.txt
+41,Global Top 50,Sin Pijama,Becky G,188560,92,2.9299999999999997e-05,../../Data_Files/Song_Lyrics/global_top_50/SinPijama_BeckyG.txt
+42,Global Top 50,No Es Justo,J Balvin,250840,86,0.000363,../../Data_Files/Song_Lyrics/global_top_50/NoEsJusto_JBalvin.txt
+43,Global Top 50,Paul - Skit,Paul Rosenberg,35240,82,0.0,../../Data_Files/Song_Lyrics/global_top_50/PaulSkit_PaulRosenberg.txt
+44,Global Top 50,God's Plan,Drake,198973,91,8.290000000000001e-05,../../Data_Files/Song_Lyrics/global_top_50/GodsPlan_Drake.txt
+45,Global Top 50,no tears left to cry,Ariana Grande,205920,88,3.11e-06,../../Data_Files/Song_Lyrics/global_top_50/notearslefttocry_ArianaGrande.txt
+46,Global Top 50,STARGAZING,Travis Scott,270714,91,4.05e-06,../../Data_Files/Song_Lyrics/global_top_50/STARGAZING_TravisScott.txt
+47,Global Top 50,Shotgun,George Ezra,201287,90,0.0,../../Data_Files/Song_Lyrics/global_top_50/Shotgun_GeorgeEzra.txt
+48,Global Top 50,Nice Guy (with Jessie Reyez),Eminem,150801,80,0.0,../../Data_Files/Song_Lyrics/global_top_50/NiceGuywithJessieReyez_Eminem.txt
+49,Global Top 50,Whenever (feat. Conor Maynard),Kris Kross Amsterdam,163636,87,0.0,../../Data_Files/Song_Lyrics/global_top_50/WheneverfeatConorMaynard_KrisKrossAmsterdam.txt

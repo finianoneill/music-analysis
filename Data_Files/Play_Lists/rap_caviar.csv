@@ -1,0 +1,51 @@
+,Playlist,Track Name,Artist Name,Duration (ms),Popularity,Instrumentalness,Lyrics Path
+0,RapCaviar,Lucky You (feat. Joyner Lucas),Eminem,244679,88,0.0,../../Data_Files/Song_Lyrics/rap_caviar/LuckyYoufeatJoynerLucas_Eminem.txt
+1,RapCaviar,SICKO MODE,Travis Scott,312820,95,0.0,../../Data_Files/Song_Lyrics/rap_caviar/SICKOMODE_TravisScott.txt
+2,RapCaviar,Moonlight,XXXTENTACION,135090,93,0.00404,../../Data_Files/Song_Lyrics/rap_caviar/Moonlight_XXXTENTACION.txt
+3,RapCaviar,FEFE (feat. Nicki Minaj & Murda Beatz),6ix9ine,179404,96,0.0,../../Data_Files/Song_Lyrics/rap_caviar/FEFEfeatNickiMinajMurdaBeatz_6ix9ine.txt
+4,RapCaviar,Nonstop,Drake,238613,79,0.00698,../../Data_Files/Song_Lyrics/rap_caviar/Nonstop_Drake.txt
+5,RapCaviar,STARGAZING,Travis Scott,270714,91,4.05e-06,../../Data_Files/Song_Lyrics/rap_caviar/STARGAZING_TravisScott.txt
+6,RapCaviar,Yes Indeed,Lil Baby,142273,55,0.0,../../Data_Files/Song_Lyrics/rap_caviar/YesIndeed_LilBaby.txt
+7,RapCaviar,Mo Bamba,Sheck Wes,180897,84,0.00114,../../Data_Files/Song_Lyrics/rap_caviar/MoBamba_SheckWes.txt
+8,RapCaviar,Hopeless Romantic (feat. Swae Lee),Wiz Khalifa,225483,75,0.0,../../Data_Files/Song_Lyrics/rap_caviar/HopelessRomanticfeatSwaeLee_WizKhalifa.txt
+9,RapCaviar,Lean Wit Me,Juice WRLD,175755,85,0.0,../../Data_Files/Song_Lyrics/rap_caviar/LeanWitMe_JuiceWRLD.txt
+10,RapCaviar,Leave Me Alone,Flipp Dinero,195637,80,0.0,../../Data_Files/Song_Lyrics/rap_caviar/LeaveMeAlone_FlippDinero.txt
+11,RapCaviar,YOSEMITE,Travis Scott,150043,86,3.4e-06,../../Data_Files/Song_Lyrics/rap_caviar/YOSEMITE_TravisScott.txt
+12,RapCaviar,W O R K I N M E,Quavo,169620,83,7.06e-06,../../Data_Files/Song_Lyrics/rap_caviar/WORKINME_Quavo.txt
+13,RapCaviar,Nephew (feat. Lil Pump),Smokepurpp,202962,82,0.0,../../Data_Files/Song_Lyrics/rap_caviar/NephewfeatLilPump_Smokepurpp.txt
+14,RapCaviar,Taking A Walk,Trippie Redd,121680,80,0.0,../../Data_Files/Song_Lyrics/rap_caviar/TakingAWalk_TrippieRedd.txt
+15,RapCaviar,Praise The Lord (Da Shine),A$AP Rocky,205040,90,0.0816,../../Data_Files/Song_Lyrics/rap_caviar/PraiseTheLordDaShine_AAPRocky.txt
+16,RapCaviar,Mob Ties,Drake,205146,74,0.0012699999999999999,../../Data_Files/Song_Lyrics/rap_caviar/MobTies_Drake.txt
+17,RapCaviar,Lucid Dreams,Juice WRLD,239946,48,0.0,../../Data_Files/Song_Lyrics/rap_caviar/LucidDreams_JuiceWRLD.txt
+18,RapCaviar,Champion (feat. Travis Scott),NAV,195053,82,0.0,../../Data_Files/Song_Lyrics/rap_caviar/ChampionfeatTravisScott_NAV.txt
+19,RapCaviar,Lost It (feat. Quavo & Offset),Rich The Kid,272152,62,1.5e-06,../../Data_Files/Song_Lyrics/rap_caviar/LostItfeatQuavoOffset_RichTheKid.txt
+20,RapCaviar,No Rest,Lil Skies,135535,79,4.47e-06,../../Data_Files/Song_Lyrics/rap_caviar/NoRest_LilSkies.txt
+21,RapCaviar,Shake It Up,Trippie Redd,116680,80,0.0,../../Data_Files/Song_Lyrics/rap_caviar/ShakeItUp_TrippieRedd.txt
+22,RapCaviar,Taste (feat. Offset),Tyga,232959,95,0.0,../../Data_Files/Song_Lyrics/rap_caviar/TastefeatOffset_Tyga.txt
+23,RapCaviar,Chanel (Go Get It) [feat. Gunna & Lil Baby],Young Thug,201706,80,0.0,../../Data_Files/Song_Lyrics/rap_caviar/ChanelGoGetItfeatGunnaLilBaby_YoungThug.txt
+24,RapCaviar,Noticed,Lil Mosey,165000,81,0.0,../../Data_Files/Song_Lyrics/rap_caviar/Noticed_LilMosey.txt
+25,RapCaviar,TAlk tO Me (with Rich The Kid),Tory Lanez,184489,79,0.0,../../Data_Files/Song_Lyrics/rap_caviar/TAlktOMewithRichTheKid_ToryLanez.txt
+26,RapCaviar,Wasted (feat. Lil Uzi Vert),Juice WRLD,258475,83,0.0,../../Data_Files/Song_Lyrics/rap_caviar/WastedfeatLilUziVert_JuiceWRLD.txt
+27,RapCaviar,Ned Flanders (feat. A$AP Ferg),MadeinTYO,161013,80,0.0,../../Data_Files/Song_Lyrics/rap_caviar/NedFlandersfeatAAPFerg_MadeinTYO.txt
+28,RapCaviar,Not Alike (feat. Royce Da 5'9),Eminem,288086,84,0.0,../../Data_Files/Song_Lyrics/rap_caviar/NotAlikefeatRoyceDa59_Eminem.txt
+29,RapCaviar,"Big Bank feat. 2 Chainz, Big Sean, Nicki Minaj",YG,238373,75,0.0,../../Data_Files/Song_Lyrics/rap_caviar/BigBankfeat2ChainzBigSeanNickiMinaj_YG.txt
+30,RapCaviar,The Flute Song,Russ,147600,75,0.0,../../Data_Files/Song_Lyrics/rap_caviar/TheFluteSong_Russ.txt
+31,RapCaviar,Life Goes On,Lil Baby,247054,81,0.0,../../Data_Files/Song_Lyrics/rap_caviar/LifeGoesOn_LilBaby.txt
+32,RapCaviar,Fr Fr (feat. Lil Skies),Wiz Khalifa,195590,80,2.63e-06,../../Data_Files/Song_Lyrics/rap_caviar/FrFrfeatLilSkies_WizKhalifa.txt
+33,RapCaviar,Pull Up (feat. NAV),A Boogie Wit da Hoodie,193575,75,0.0,../../Data_Files/Song_Lyrics/rap_caviar/PullUpfeatNAV_ABoogieWitdaHoodie.txt
+34,RapCaviar,Head On (feat. Kevin Gates),YoungBoy Never Broke Again,117995,73,4.47e-06,../../Data_Files/Song_Lyrics/rap_caviar/HeadOnfeatKevinGates_YoungBoyNeverBrokeAgain.txt
+35,RapCaviar,SWISH,Tyga,194935,87,0.0,../../Data_Files/Song_Lyrics/rap_caviar/SWISH_Tyga.txt
+36,RapCaviar,The Return,Logic,252133,77,0.0,../../Data_Files/Song_Lyrics/rap_caviar/TheReturn_Logic.txt
+37,RapCaviar,Bigger Than You (feat. Drake & Quavo),2 Chainz,225893,81,0.0,../../Data_Files/Song_Lyrics/rap_caviar/BiggerThanYoufeatDrakeQuavo_2Chainz.txt
+38,RapCaviar,REEL IT IN,Aminé,121346,73,0.0,../../Data_Files/Song_Lyrics/rap_caviar/REELITIN_Amin.txt
+39,RapCaviar,Chun Swae (feat. Swae Lee),Nicki Minaj,370440,75,0.00151,../../Data_Files/Song_Lyrics/rap_caviar/ChunSwaefeatSwaeLee_NickiMinaj.txt
+40,RapCaviar,In My Feelings,Drake,217933,83,0.0144,../../Data_Files/Song_Lyrics/rap_caviar/InMyFeelings_Drake.txt
+41,RapCaviar,2 Seater (feat. Quavo & 21 Savage),DJ Holiday,158796,73,0.0,../../Data_Files/Song_Lyrics/rap_caviar/2SeaterfeatQuavo21Savage_DJHoliday.txt
+42,RapCaviar,Kept Back (feat. Lil Pump),Gucci Mane,177651,76,0.0,../../Data_Files/Song_Lyrics/rap_caviar/KeptBackfeatLilPump_GucciMane.txt
+43,RapCaviar,Album of the Year - Freestyle,J. Cole,138872,78,0.0,../../Data_Files/Song_Lyrics/rap_caviar/AlbumoftheYearFreestyle_JCole.txt
+44,RapCaviar,Rotation 112th (feat. Rich The Kid) - Remix,Jay Rock,297826,63,0.000122,../../Data_Files/Song_Lyrics/rap_caviar/Rotation112thfeatRichTheKidRemix_JayRock.txt
+45,RapCaviar,APESHIT,The Carters,264853,79,0.0,../../Data_Files/Song_Lyrics/rap_caviar/APESHIT_TheCarters.txt
+46,RapCaviar,It's A Slime (feat. Lil Uzi Vert),Young Thug,142840,73,0.0,../../Data_Files/Song_Lyrics/rap_caviar/ItsASlimefeatLilUziVert_YoungThug.txt
+47,RapCaviar,I Might Need Security,Chance the Rapper,240640,80,0.0,../../Data_Files/Song_Lyrics/rap_caviar/IMightNeedSecurity_ChancetheRapper.txt
+48,RapCaviar,XTCY,Kanye West,176613,68,0.0,../../Data_Files/Song_Lyrics/rap_caviar/XTCY_KanyeWest.txt
+49,RapCaviar,Barbie Dreams,Nicki Minaj,279866,82,0.0,../../Data_Files/Song_Lyrics/rap_caviar/BarbieDreams_NickiMinaj.txt
